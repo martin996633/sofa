@@ -3,9 +3,8 @@ name: SofaScraper to CSV
 on:
   schedule:
     - cron: '*/20 * * * *' # Každých 20 minut
-  workflow_dispatch: # Možnost ručního spuštění
+  workflow_dispatch:
 
-# DŮLEŽITÉ: Povolení zápisu do repozitáře
 permissions:
   contents: write
 
@@ -25,14 +24,20 @@ jobs:
       - name: Nainstalovat knihovny
         run: pip install -r requirements.txt
 
-      - name: Spustit skript (vytvoří results.csv)
+      - name: Spustit skript
         run: python main.py
 
-      - name: Commit a Push změn
+      - name: Commit a Push (jen pokud jsou data)
         run: |
           git config --global user.name "SofaBot"
           git config --global user.email "sofabot@users.noreply.github.com"
-          git add results.csv
-          # Commitneme jen pokud jsou změny, jinak nehlásíme chybu
-          git commit -m "Aktualizace výsledků: $(date)" || exit 0
-          git push
+          
+          # Podmínka: Existuje soubor results.csv?
+          if [ -f results.csv ]; then
+            git add results.csv
+            git commit -m "Aktualizace výsledků: $(date)" || exit 0
+            git push
+            echo "✅ Data úspěšně odeslána na GitHub."
+          else
+            echo "⚠️ Soubor results.csv nebyl vytvořen (žádná data ke stažení)."
+          fi
