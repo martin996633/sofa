@@ -1,402 +1,588 @@
 Čas,Minuta,Liga,Domácí,Hosté,Skóre,xG Dom,xG Hos
-13:15,2nd half,Serie A,Torino,Lecce,1-0,1.86,0.48
-13:15,1st half,LaLiga,Real Madrid,Rayo Vallecano,0-0,0.00,0.19
-13:15,1st half,Pro League,Standard Liège,RSC Anderlecht,1-0,0.83,1.22
-13:15,2nd half,Mozzart Bet Superliga,FK Mladost Lučani,OFK Beograd Mozzart,0-0,0,0
-13:15,1st half,"CAF Champions League, Group D",Simba SC,Espérance Tunis,0-0,0,0
-13:15,1st half,LaLiga 2,Almería,AD Ceuta,0-0,0,0
-13:15,1st half,2. Bundesliga,Fortuna Düsseldorf,SC Paderborn 07,0-1,0,0
-13:15,1st half,2. Bundesliga,Hertha BSC,Darmstadt 98,2-1,0,0
-13:15,1st half,2. Bundesliga,SG Dynamo Dresden,Arminia Bielefeld,1-0,0,0
-13:15,1st half,1. Lig,Boluspor,Sakaryaspor,0-0,0,0
-13:16,2nd half,Czech First League,1. FC Slovácko,Baník Ostrava,0-2,0,0
-13:16,2nd half,Ekstraklasa,Motor Lublin,Pogoń Szczecin,2-1,0,0
-13:16,1st half,Swiss Super League,FC Luzern,FC St. Gallen 1879,0-0,0,0
-13:16,2nd half,Thai League 1,Ratchaburi,Muang Thong United,3-1,0,0
-13:16,2nd half,Thai League 1,Sukhothai,Uthai Thani FC,1-1,0,0
-13:16,2nd half,Thai League 1,Buriram United,True Bangkok United,0-1,0,0
-13:16,2nd half,Women's Super League,Brighton,London City Lionesses,1-2,0,0
-13:16,2nd half,Women's Super League,Everton,Aston Villa,1-1,0,0
-13:16,2nd half,Women's Super League,Manchester United,Liverpool FC,2-1,0,0
-13:16,2nd half,Women's Super League,West Ham,Tottenham FC,1-1,0,0
-13:16,1st half,Challenger Pro League,Koninklijke Lierse Sportkring,K. Beerschot V.A.,1-1,0,0
-13:16,1st half,Challenger Pro League,KV Kortrijk,KSC Lokeren,1-1,0,0
-13:16,2nd half,Serie A Femminile,Lazio,FC Como,1-1,0,0
-13:16,2nd half,Serie A Femminile,Milan,Genoa,1-1,0,0
-13:16,1st half,Frauen-Bundesliga,Hamburger SV,SC Freiburg,0-0,0,0
-13:16,2nd half,Liga F Moeve,Costa Adeje Tenerife,Real Sociedad,1-1,0,0
-13:16,2nd half,NB I,Diósgyőri VTK,Kisvárda FC,1-1,0,0
-13:16,2nd extra,Club Friendly Games,FC Kaluga,Torpedo Miass,3-1,0,0
-13:16,2nd half,Club Friendly Games,FC Liefering,Obolon Kyiv,1-1,0,0
-13:16,2nd half,Club Friendly Games,Örebro SK,Sandvikens IF,0-0,0,0
-13:16,1st half,Club Friendly Games,Botev Vratsa,FC Ararat-Armenia,0-0,0,0
-13:16,1st half,Club Friendly Games,Dynamo Brest,Gomel,3-1,0,0
-13:16,1st half,Club Friendly Games,Lokomotiv Tashkent,FC Kyzylzhar,0-1,0,0
-13:17,1st half,Club Friendly Games,SV Lippstadt 08,Sportfreunde Lotte,0-1,0,0
-13:17,1st half,Club Friendly Games,AGF,FC København,0-0,0,0
-13:17,1st half,Club Friendly Games,Chrobry Głogów,Ślęza Wrocław,0-0,0,0
-13:17,1st half,Club Friendly Games,FC Lokomotíva Košice,MŠK Novohrad Lučenec,0-0,0,0
-13:17,1st half,Club Friendly Games,FC Ordabasy,KF Shkëndija,1-0,0,0
-13:17,1st half,Club Friendly Games,FC Rostov,Rodina Moscow,0-0,0,0
-13:17,1st half,Club Friendly Games,FC Sogdiana Jizzakh,Chelyabinsk,0-0,0,0
-13:17,1st half,Club Friendly Games,FK Rostov Veliki,Rodina Moscow,0-0,0,0
-13:17,1st half,Club Friendly Games,Sarpsborg 08,Östers IF,0-0,0,0
-13:17,2nd half,"CAF Confederations Cup, Group B",Maniema Union,Wydad Casablanca,1-0,0,0
-13:17,1st half,"CAF Confederations Cup, Group C",AS Otohô,Singida Black Stars SC,0-0,0,0
-13:17,1st half,"CAF Confederations Cup, Group C",Stellenbosch,CR Belouizdad,0-0,0,0
-13:17,1st half,"CAF Confederations Cup, Group D",Kaizer Chiefs,ZESCO United,1-0,0,0
-13:17,2nd half,"Super League 2, Women",Durham W.F.C.,Portsmouth Women,0-1,0,0
-13:17,1st half,"Super League 2, Women",Sheffield United Women,Charlton Athletic WFC,0-0,0,0
-13:17,2nd half,"Segunda Federacion, Group IV",FC La Union Atletico,Lorca Deportiva,0-2,0,0
-13:17,1st half,"Segunda Federación Femenina, Group 2",Futbolellas CFF,CD Argual,0-1,0,0
-13:17,2nd half,"Primera Federacion, Women",Osasuna,Real Betis,0-1,0,0
-13:17,2nd half,"División de Honor Juvenil, Group 1",Club Bansander U19,CD Roces U19,0-0,0,0
-13:17,1st half,"División de Honor Juvenil, Group 1",CD Lugo U19,Gimnastica de Torrelavega U19,0-0,0,0
-13:17,2nd half,"División de Honor Juvenil, Group 5",Las Rozas CF U19,AD Sporting Hortaleza U19,2-2,0,0
-13:17,1st half,"División de Honor Juvenil, Group 5",CF Trival Valderas Alcorcon U19,UD La Cruz Villanovense U19,0-0,0,0
-13:17,2nd half,"División de Honor Juvenil, Group 7",FC Jove Español San Vicente U19,Albacete Balompie U19,1-0,0,0
-13:18,1st half,3. Liga,SSV Ulm 1846,MSV Duisburg,1-0,0,0
-13:18,1st half,2. Frauen-Bundesliga,Eintracht Frankfurt II,VfR Warbeyen,0-0,0,0
-13:18,1st half,2. Frauen-Bundesliga,Wolfsburg II,SC Sand,0-0,0,0
-13:18,2nd half,"Serie C, Group A",Aurora Pro Patria,L.R. Vicenza,0-4,0,0
-13:18,2nd half,"Serie C, Group A",Cittadella,AlbinoLeffe,0-1,0,0
-13:18,2nd half,Primavera 1,Lecce U20,Roma U20,0-1,0,0
-13:18,1st half,"National 2, Group B",Blois Foot 41,AS Furiani Agliani,0-1,0,0
-13:18,1st half,Seconde Ligue Women,Evian Thonon Grand Genève FC,Metz FC,1-0,0,0
-13:18,1st half,Kategoria e Pare,Lushnja,KS Burreli,0-0,0,0
-13:18,1st half,"Kategoria e Dytë, Group B",Akademia Eagle Football,Partizani Tiranë B,2-0,0,0
-13:18,Halftime,"Kategoria e Dytë, Group B",Butrinti Sarandë,Bylis Ballsh B,1-0,0,0
-13:18,Halftime,"Kategoria e Dytë, Group B",FK Këlcyra,KF Oriku,0-1,0,0
-13:18,Halftime,"Kategoria e Dytë, Group B",FK Tomori Berat,Shkumbini Peqin,3-1,0,0
-13:18,Started,"NPL WA Night Series, Group C",Stirling Macedonia FC,Balcatta Etna FC,0-0,0,0
-13:18,2nd half,Premier League,Araz Naxçıvan,Neftçi Baku PFK,0-2,0,0
-13:18,Started,Liège - 3ème Provencial D,RCS Bellevaux-Ligneuville,RUS Emmels,0-0,0,0
-13:18,1st half,"Capixaba, Série A",Vilavelhense,Forte FC,0-0,0,0
-13:18,1st half,"Goiano, 1ª Divisão",Jataiense,Inhumas,0-0,0,0
-13:18,1st half,"Paraense, Serie A",Tuna Luso,Águia de Marabá FC,0-0,0,0
-13:18,1st half,"Paulista, Série A2",EC Santo André,Água Santa,0-0,0,0
-13:18,1st half,"Paulista, Serie A3",EC São Bernardo,União Suzano AC,1-1,0,0
-13:18,1st half,"Paulista, Serie A3",Portuguesa Santista,Rio Branco-SP,0-0,0,0
-13:18,Started,Bulgaria Friendly Games,FC Ograzhdenets Karnolovo,FC Akademia Levski Valtata Samuilovo,0-0,0,0
-13:19,2nd half,Bulgaria Friendly Games,FC Volov Shumen 2007 Shumen,FC Ustrem Donchevo,3-0,0,0
-13:19,1st half,Primus League,BG Green Maze FC,Aigle Noir CS,0-0,0,0
-13:19,1st half,"2nd Division, Relegation Round",Iraklis Gerolakkou,Ethnikos Latsion,1-0,0,0
-13:19,Started,4. Division ,A.E. Troullon,Orfeas Lefkosias,0-0,0,0
-13:19,Started,Ligue 1 - Groupe A,AS Saint-Luc de Kananga,US Tshinkunku,0-0,0,0
-13:19,Started,Ligue 1 - Groupe A,US Panda B52,Groupe Bazano,0-0,0,0
-13:19,Started,Ligue 1 - Groupe B,AF Anges Verts,AC Rangers,0-0,0,0
-13:19,1st half,U21 Premier League 2,Leeds United U21,Arsenal U21,0-1,0,0
-13:19,1st half,U21 Premier League 2,Sunderland U21,Leicester City U21,0-1,0,0
-13:19,2nd half,U21 Professional Development League,Brentford U21,Bristol City U21,1-0,0,0
-13:19,Started,"The Grimsby, Cleethorpes & District Sunday Football League - Division 4",Bridge FC,Blossom Way Rovers FC,0-0,0,0
-13:19,Started,"The Grimsby, Cleethorpes & District Sunday Football League - Division 4",Leisure FC,Jubilee Inn FC,0-0,0,0
-13:19,Started,"Stranger Charity Cup, Group B",Vale Recreation FC,Belgrave Wanderers FC,0-0,0,0
-13:19,2nd half,Premier League,Mekelle 70  Enderta,Ethiopia Bunna,1-1,0,0
-13:19,1st half,Premier League,Fasil Ketema,Saint George,0-0,0,0
-13:19,Started,KTFF Super League,Alsancak Yesilova SK,Cihangir GSK,0-0,0,0
-13:19,Started,KTFF Super League,Mağusa Türk Gücü,Mormenekşe GBSK,0-0,0,0
-13:19,Started,KTFF 1.Lig,Aslanköy GSD,Binatlı YSK,0-0,0,0
-13:19,Started,KTFF 1.Lig,Geçitkale GSK,Kozanköy KSK,0-0,0,0
-13:19,Started,KTFF 1.Lig,Hamitköy ŞHSK,Türk Ocağı Limasol SK,0-0,0,0
-13:19,Started,KTFF 1.Lig,Yalova SK,Maraş GSK,0-0,0,0
-13:19,1st half,Regionalliga West,1. FC Köln II U23,SC Paderborn 07 II U21,0-0,0,0
-13:19,Started,Kreisliga A Düsseldorf,SC Rot-Weiß Lintorf,FC Bosporus Düsseldorf,0-0,0,0
-13:19,2nd half,Germany Friendly Games,ASV Dachau II,FC Markt Schwaben,1-2,0,0
-13:20,Started,Germany Friendly Games,TSV Elmshausen,SKG Erfelden,0-0,0,0
-13:20,1st half,Germany Friendly Games,FC Fürth II,SG Hammelbach/​Scharbach,1-0,0,0
-13:20,2nd half,Mfantseman Division 3,Ekumfiman United FC,Centa Academy,0-2,0,0
-13:20,1st half,Gamma Ethniki - Group 1,APS Panthrakikos,AO Xanthis,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 1,MGS Orestis Orestiadas,Iraklis Thermaikou,0-0,0,0
-13:20,Started,Gamma Ethniki - Group 1,AS PAOK Dytikou,APO Thermaikos Thermis,0-0,0,0
-13:20,Started,Gamma Ethniki - Group 1,PAOK Kristonis,AO Kilkisiakos,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 2,AO Asteras Karditsas,FS Eordaikos Ptolemaidas,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 2,AS Sarakinos,FS Kozani,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 2,NPS Veria 1960,PS Ethnikos Neou Keramidiou,0-0,0,0
-13:20,2nd half,Gamma Ethniki - Group 3,AE Anagennisi Schimatariou,AS Aris Filiaton,1-2,0,0
-13:20,1st half,Gamma Ethniki - Group 3,AO Anthoupolis,AE Lefkimmis,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 3,AS Asteras Stavrou,AO Trikala,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 3,PO Elassonas,PAS Lamia 1964,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 3,Proodos Rogon 1966,AO Tilykratis Lefkadas,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 4,AO Ermis Meligous,AS Panthouriakos,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 4,AO Miltiadis Pyrgou Trifilias,APS Zakynthos 1961,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 4,APS Thyella Patron,GE Panachaiki,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 4,GPS Pelopas Kiatou,AO Loutraki,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 4,GS Panegialios,PAS Korinthos,1-0,0,0
-13:20,1st half,Gamma Ethniki - Group 5,AO Neas Artakis,AO Amarynthiakos,0-0,0,0
-13:20,1st half,Gamma Ethniki - Group 5,AS Apollon Kalythion,GS Diagoras Rodou,1-0,0,0
-13:20,1st half,Gamma Ethniki - Group 5,Ethnikos Asteras FC,AO Karystou,0-0,0,0
-13:21,2nd half,Gamma Ethniki - Group 6,AO Ilysiakos,AE Mykonou,2-1,0,0
-13:21,1st half,Gamma Ethniki - Group 6,AO Giouchtas Archanon,AO Ionikos Nikeas,0-0,0,0
-13:21,1st half,Gamma Ethniki - Group 6,APO Thyella Rafinas,AO Chaidariou,0-0,0,0
-13:21,1st half,Gamma Ethniki - Group 6,APS Granitis Agias Marinas,AO Kyanous Astir Varis,0-0,0,0
-13:21,1st half,Gamma Ethniki - Group 6,AS Aias Salaminas,PO Atsalenios,0-0,0,0
-13:21,1st half,Gamma Ethniki - Group 6,OFPF Ethnikos,AO Saronikos Anavyssou,0-0,0,0
-13:21,1st half,"1. Division, Women",Panathinaikos,Asteras Aktor,0-0,0,0
-13:21,Started,"2. Division Women, Group A",Shooters WFC,Sirines Grevenon  FC,0-0,0,0
-13:21,Started,"2. Division Women, Group B",Atlas Epirus WFC,Panetolikos WFC,0-0,0,0
-13:21,Started,"2. Division Women, Group B",Flamingo Messologgiou,Pyrgos AFC Women,0-0,0,0
-13:21,Halftime,U19 Super League,Volos NFC U19,AE Larissa U19,0-0,0,0
-13:21,Started,"U19 Super League 2, Group B",GS Marko U19,Ilioupoli U19,0-0,0,0
-13:21,Started,A2 EPS Argolidas - Group 2,A.E.S. Methana,Erasinos Kefalariou,1-0,0,0
-13:21,Started,A EPS Athens - Group 2,AS Atromitos Metamorfosis,APO Fostiras Tavrou,0-0,0,0
-13:21,Started,A EPS Athens - Group 2,GS Apollon Smyrnis,AO Trachonon Alimou,0-0,0,0
-13:21,Started,B EPS Athens - Group 1,AO Melission,Asteras Glyfadas FC,0-0,0,0
-13:21,Started,B EPS Athens - Group 3,Athinaikos AS Virona,AO Gyziakos,0-0,0,0
-13:21,Started,C EPS Athens - Group 1,PAO Atromitos Chalandriou,AE Peristeriou,0-0,0,0
-13:21,1st half,B EPS Chanion,AO Chalis Varypetrou,Aris Voukolion,0-0,0,0
-13:21,1st half,B EPS Chanion,Aspida Naustahmou,Titan Kalives,0-0,0,0
-13:21,1st half,C EPS Chanion,AGS Sfakion,AO Koumpes,0-0,0,0
-13:21,1st half,C EPS Chanion,Neos Kissamikos B,Irtakina Kantanou-Selinou,0-0,0,0
-13:21,Started,B EPS Dodekanisou Group 2,AS Akousilaos Fanon,G.A.S Panthires Rodou,0-0,0,0
-13:22,Started,B EPS Dodekanisou Group 2,Ippotes Palias Polis,Polistratos Laermon,0-0,0,0
-13:22,Started,B EPS Evoias Group B,AO Marmariou,AO Anagennisi Afratiou,0-0,0,0
-13:22,Started,C EPS Evoias - Central 2,Athlitiki Akadimia Aristoteleios,AE Propontis B,0-0,0,0
-13:22,Started,A EPS Fokidas,AS Fokikos Amfissas,AS Akadimia 94,0-0,0,0
-13:22,Started,A1 EPS Irakleiou,AS Agias Varvaras,AO Romanos Elias,0-0,0,0
-13:22,Started,B EPS Irakleiou Group 1,AO Ermis Atsaleniou,GPS Almyros Gaziou B,0-0,0,0
-13:22,Started,B EPS Irakleiou Group 2,AO Kounavon,AO Keravnos Atsaleniou,0-0,0,0
-13:22,1st half,A EPS Ilias ,Pelopas Pyrgou AGPC,Lefkos Asteras Skourochoriou,1-0,0,0
-13:22,1st half,A EPS Ilias ,Thyella Kardama AC,APO Kourtesiou,0-0,0,0
-13:22,Started,B EPS Ilias,PAO Kakovatou,Aris Dimitras AC,0-0,0,0
-13:22,Started,C EPS Ilias - Group B,Ifitos Kalivion Ilidas,AC Leontes Amaliadas,0-0,0,0
-13:22,Started,B EPS Korinthias,Dafni Eksamilion,Thiella Kato Diminiou,0-0,0,0
-13:22,Started,"A EPS Kykladon - 2nd Phase, Group A",AO Pannaxiakos,AO Pagou Syros,0-0,0,0
-13:22,Started,"B EPS Larissa, Group B",Cheimaros Marmarinis,AO Filoktitis Melivoias,0-0,0,0
-13:22,Started,A EPS Pierias,Elpis Andromachis,AO Paralias,0-0,0,0
-13:22,Started,A EPS Pierias,GAS Atromitos Katerinis,GAMS Ethnikos Katerinis,0-0,0,0
-13:22,Started,B EPS Voiotias - Group 2,A.O. Epameinondas Lefktron,A.S. Thyella  Xironomis,0-0,0,0
-13:22,2nd half,B EPS Voiotias - Group 2,AO Melissoxori,AO Elikonas Domvrainas,0-0,0,0
-13:22,Started,B EPS Voiotias - Group 2,Apollon Neoxorakiou,AO Doxa Mourikiou,3-0,0,0
-13:22,Started,"B EPS Fthiotidas, Group B",AS Niki Agias Paraskevis,AO Pelasgiakos,0-0,0,0
-13:22,Started,B EPS Fokidas,F.C Amfissaikos 2006,PAS Oianthi Galaxidiou,0-0,0,0
-13:22,1st half,NB II,Békéscsaba 1912 Előre,Soroksár SC,0-0,0,0
-13:22,1st half,NB II,Karcagi SC,Mezőkövesd Zsóry,0-0,0,0
-13:23,1st half,NB II,Szentlőrinc SE,Budafoki MTE,1-0,0,0
-13:23,1st half,NB II,Tiszakécskei LC,Kozármisleny FC,0-1,0,0
-13:23,2nd half,Indonesia Super League,Persebaya Surabaya,Dewa United FC,1-1,0,0
-13:23,2nd half,"Liga Topskor U14, LTS2, Group A, First Round",Alaska Cikempong U14,Asad Purwakarta U14,0-1,0,0
-13:23,2nd half,Pro League,Esteghlal Khuzestan,Aluminium Arak,1-1,0,0
-13:23,2nd half,Pro League,Shams Azar Qazvin,Mes Rafsanjan FC,1-0,0,0
-13:23,2nd half,Pro League,Tractor FC,Sepahan S.C.,1-0,0,0
-13:23,Halftime,Iraq Stars League,Al Mosul SC,Al-Quwa Al-Jawiya,0-1,0,0
-13:23,2nd half,Iraq Stars League,Al-Qasim SC,Duhok SC,0-1,0,0
-13:23,2nd half,Iraq Stars League,Naft Missan,Al Kahraba,0-0,0,0
-13:23,2nd half,Kurdistan First Division ,Baban,Bardarash SC,2-0,0,0
-13:23,2nd half,Kurdistan First Division ,Duhok SC,Khak,1-0,0,0
-13:23,2nd half,Kurdistan First Division ,Kfri,Koya,1-1,0,0
-13:23,2nd half,Kurdistan First Division ,Shaqlawa SC,Erbil SC,0-1,0,0
-13:23,Started,Promozione Campania - Girone A,Casoria,Cardito,0-0,0,0
-13:23,Started,Promozione Campania - Girone B,Pasquale Foggia,Rione Terra,0-0,0,0
-13:23,Started,"Prima Categoria Sicilia, Girone C",Polisportiva Torrenovese 1971,Lipari,0-0,0,0
-13:23,Started,"Serie C Femminile, Girone A",Caronnese Women,Tharros,0-0,0,0
-13:23,2nd half,Premier League,Muranga Seal,APS Bomet FC,1-1,0,0
-13:23,2nd half,Premier League,Muranga Seal,APS Bomet FC,1-1,0,0
-13:23,Halftime,National Super League,Kisumu All Stars FC,Mwatate United,0-0,0,0
-13:23,2nd half,National Super League,Kabati FC,Mombasa United FC,0-0,0,0
-13:23,2nd half,National Super League,Soy United FC,Migori Youth FC,0-0,0,0
-13:24,1st half,"82 Sports Ultimate Cup, Playoff",Leads United FC,Tusker Youth FC,0-0,0,0
-13:24,Halftime,Premier League,Jwaaya FC,Al-Abbassieh FC,0-0,0,0
-13:24,Halftime,Premier League,Racing Beirut,Al-Ahed,0-0,0,0
-13:24,1st half,"Premier League, Group 3",Al Sadaqa Shahat SC,Darnes Derna SC,0-0,0,0
-13:24,2nd half,Elite League,Chao Pak Kei,Universidade de Macau,6-0,0,0
-13:24,Halftime,Elite League,Cheng Fung,Benfica de Macau,0-1,0,0
-13:24,Halftime,Super League,Johor Darul Ta'zim,Immigration FC,1-0,0,0
-13:24,1st half,Super League,Terengganu,Selangor Football Club,0-0,0,0
-13:24,1st half,Liga A1,Wan Tendong Stable,Kedah Darul Aman FC,1-0,0,0
-13:24,1st half,"Premier League, Closing Round",Valletta FC,Naxxar Lions FC,0-1,0,0
-13:24,1st half,Challenge League,St. Lucia FC,Melita FC,0-0,0,0
-13:24,1st half,Challenge League,Zurrieq,Mgarr United FC,0-0,0,0
-13:24,Started,BOV Amateur League II,Dingli Swallows FC,Marsaskala FC,0-0,0,0
-13:24,Started,BOV Amateur League II,Santa Venera Lightnings FC,Ghaxaq FC,0-0,0,0
-13:24,2nd half,Gozo Football League First Division,Qala Saints F.C.,Nadur Youngsters F.C.,4-0,0,0
-13:24,Started,Ligue Régionale Rabat Salé Kénitra,RS Gharb,AAS Lalla Mimouna,0-0,0,0
-13:24,1st half,Ligue 1 Ouest Maroc,AC Hilal Rabat,AS Takdoum Rabat,0-0,0,0
-13:24,2nd half,"Ligue Régionale De L'Ouest, Women",AS Afak Sports,AS Ittihad Bouknadel,0-0,0,0
-13:24,1st half,Derde Divisie A,VV Hoogeveen,RKSV Rohda Raalte,0-0,0,0
-13:24,Started,Vierde Divisie - Group C,OJC Rosmalen,SV Venray,0-0,0,0
-13:24,Started,1e Klasse G Oost,MVV '29 Harbrinkhoek,SV Bon Boys,0-0,0,0
-13:24,Started,2e Klasse A West 1 Zondag,VV Limmen,SV Assendelft,0-0,0,0
-13:24,1st half,Nasjonal U19 CL,Sandnes Ulf U19,Bryne FK U19,0-0,0,0
-13:25,1st half,Nasjonal U19 CL,Lillestrøm SK U19,Haugesund U19,1-0,0,0
-13:25,Started,Poland Friendly Games,KS Stara Błotnica,Proch Pionki,1-3,0,0
-13:25,1st half,Second Division,Étoile de l'Est,Sunrise FC,0-0,0,0
-13:25,1st half,"Champions League, Women",Inyemera Wfc,Muhazi United WFC,1-0,0,0
-13:25,1st half,"Champions League, Women",Kamonyi Wfc,Rwanda Police WFC,0-0,0,0
-13:25,1st half,U21 Elite League,Al-Najmah U21,Neom U21,1-1,0,0
-13:25,1st half,Scottish Women's Premier League 2,Boroughmuir Thistle FC,Queen's Park LFC,0-0,0,0
-13:25,1st half,Scottish Women's Premier League 2,Spartans WFC,Gartcairn FC Women,0-0,0,0
-13:25,Started,Serbia Friendly Games,FK Kolubara Lazarevac,FK Napredak Medoševac,0-0,0,0
-13:25,Started,Serbia Friendly Games,FK Radnički Valjevo,FK Radnički Novi Beograd,0-0,0,0
-13:25,2nd half,Premier League,Lion City Sailors,Balestier Khalsa,5-1,0,0
-13:25,Started,Women's Premier League,Geylang International,Tanjong Pagar United,0-0,0,0
-13:25,2nd half,"Tercera Federación, Group 1",Atlético Coruña Montañeros,Silva SD,3-1,0,0
-13:25,2nd half,"Tercera Federación, Group 5",CP San Cristóbal,CF Peralada,0-1,0,0
-13:25,2nd half,"Tercera Federación, Group 9",Churriana de la Vega CF,CD Torreperogil,1-0,0,0
-13:25,1st half,"Tercera Federación, Group 10",Castilleja CF,CD Pozoblanco,0-2,0,0
-13:25,2nd half,"Tercera Federación, Group 12",CD Atlético Paso,Tenisca,0-0,0,0
-13:25,2nd half,"Tercera Federación, Group 12",CD Unión Sur Yaiza,UD Tamaraceite,0-0,0,0
-13:25,Halftime,"Tercera Federación, Group 12",CD Mensajero,UD Lanzarote,1-0,0,0
-13:25,2nd half,"Tercera Federación, Group 14",Club Deportivo Azuaga,CD Cabeza del Buey,3-1,0,0
-13:25,2nd half,"Tercera Federación, Group 14",CD Calamonte,CP Montehermoso,0-0,0,0
-13:25,2nd half,"Tercera Federación, Group 14",EF Puebla de la Calzada,CF Jaraiz,0-0,0,0
-13:25,2nd half,"Tercera Federación, Group 17",CD Binéfar,CD La Almunia,3-0,0,0
-13:26,Started,"Tercera Federación Femenina, Grupo 4",Bilbao Artizarrak FK,Real Sociedad C,0-0,0,0
-13:26,Started,"Tercera Federación Femenina, Grupo 4",CD Mariño/Real Union,Oiartzun KE,0-0,0,0
-13:26,Started,Andalucia Division Honor Senior - Group 1A,Cabecense,AD Cartaya,0-0,0,0
-13:26,Started,Andalucia Division Honor Senior - Group 1A,La Palma CF,Racing Club Portuense,0-2,0,0
-13:26,Started,Andalucia Division Honor Senior - Group 2A,CD Santa Fe,Pizarra Atlético CF,1-0,0,0
-13:26,Started,Liga Elit Catalana,FC Vilafranca,CF Ciudad Cooperativa,0-0,0,0
-13:26,2nd half,Liga Elit Catalana,Pobla de Mafumet CF,UE Valls,2-1,0,0
-13:26,Started,Tercera Catalana - Grupo 1,FC Bellcaire 2012,Monells AE,0-0,0,0
-13:26,2nd half,Preferente Galicia - Grupo 1,Victoria CF,AD Miño,1-1,0,0
-13:26,1st half,Challenge League,FC Wil 1900,Stade Nyonnais,0-0,0,0
-13:26,1st half,Championship,Kiluvya FC,Geita Gold FC,0-1,0,0
-13:26,1st half,Championship,Stand United FC,Songea United,0-0,0,0
-13:26,2nd half,Thai League 2,Police Tero,Pattaya United,1-0,0,0
-13:26,2nd half,Thai League 2,Phrae United,Mahasarakham SBT,0-2,0,0
-13:26,1st half,Ligue 1,Avenir Sportif De Gabes,Etoile Sportive Du Sahel,0-0,0,0
-13:26,1st half,Ligue 1,ES Métlaoui,Stade Tunisien,0-0,0,0
-13:26,1st half,Ligue 1,JS Omrane,CS Sfaxien,0-0,0,0
-13:26,1st half,Ligue 1,US Monastir,Avenir Sportif De La Marsa,0-0,0,0
-13:26,1st half,"Ligue 2, Group A",El Makarem de Mahdia,Sporting Club Ben Arous,0-0,0,0
-13:26,1st half,"Ligue 2, Group A",ES Hammam-Sousse,CS Chebba,1-0,0,0
-13:26,1st half,"Ligue 2, Group A",Hammam-Lif,BS Bouhajla,0-0,0,0
-13:26,1st half,"Ligue 2, Group A",Oceano Club De Kerkennah,Union Sportive De Bousalem,0-0,0,0
-13:26,1st half,"Ligue 2, Group A",Stade Africain de Menzel Bourguiba,CS de Msaken,0-0,0,0
-13:27,1st half,"Ligue 2, Group A",US Tataouine,Sfax Railways,0-0,0,0
-13:27,1st half,"Ligue 2, Group B",CS Korba,CS Redeyef,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 1",CF Manzel Temime,US Djaida,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 1",ES Rades,ES Beni Khalled,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 1",ES Tazarka,Js Manouba,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 1",FS Ras Jebel,AS Manzel Jemil,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 1",Grombalia Sports,VS Menzel Abderrahmane,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 3",Ahly Sfaxi,HS Kalaa Kebira,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 3",MS Souassi,CS Djebeniana,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 3",Stade Soussi,AS Menzel Ennour,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 4",Mareth Sport,AS Guettar,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 4",OS Kebili,ES Djerba,0-0,0,0
-13:27,1st half,"Tunisian Amateur League - Level 1, Group 4",US Ajim Djerba,AS Degache,0-0,0,0
-13:27,2nd half,"TFF 2. Lig, Beyaz Grup",24 Erzincanspor,Karacabey Belediye Spor,0-0,0,0
-13:27,Halftime,"TFF 2. Lig, Beyaz Grup",Elazığspor,Altınordu,0-0,0,0
-13:27,2nd half,"TFF 2. Lig, Beyaz Grup",İnegölspor,Kastamonuspor,2-2,0,0
-13:27,2nd half,"TFF 2. Lig, Kirmizi Grup",Menemen FK,Kırklarelispor,0-0,0,0
-13:27,Halftime,"TFF 2. Lig, Kirmizi Grup",Somaspor,Muş 1984 Muşspor,1-0,0,0
-13:27,2nd half,"Nesine 3. Lig, Grup 1",Beykoz İshaklı SF,Silivrispor,0-1,0,0
-13:27,2nd half,"Nesine 3. Lig, Grup 1",Çorluspor 1947,Polatlı 1926 SK,2-0,0,0
-13:27,2nd half,"Nesine 3. Lig, Grup 1",İnkılap FSK,Bursa Nilüfer FK,1-0,0,0
-13:27,2nd half,"Nesine 3. Lig, Grup 4",Ayvalıkgücü Belediyespor,Afyonspor,4-0,0,0
-13:27,2nd half,"Nesine 3. Lig, Grup 4",Karşıyaka,Alanya 1221 FK,3-0,0,0
-13:28,Halftime,"Nesine 3. Lig, Grup 4",Kütahyaspor Futbol SK,Balıkesirspor,1-1,0,0
-13:28,2nd half,U19 PAF Ligi,Galatasaray U19,Kayserispor U19,0-0,0,0
-13:28,2nd half,Bölgesel Amatör Lig - Group 4,Ladik Belediyespor,1930 Bafraspor,1-0,0,0
-13:28,Started,Bölgesel Amatör Lig - Group 9,Tuzla Orhanlıspor,Gülsuyu SK,2-1,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 1,Akşemsettin Parseller SK,Çekmeköyspor,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 1,Sultanbeylispor,Bağlarbaşı SK,1-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 1,Bahçelievler SK,Çanakçaspor,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 1,Kağıthanespor,Cevizli Anadolu SK,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 1,Merkezefendispor,Girne Gençlikspor,0-2,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 1,Yıldırımbosna SK,Balkan Yeşilbağlarspor,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 3,Anadolu Üsküdarspor,Florya As Spor,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 3,İstanbul Bafra,İstanbul Yeniköyspor,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 3,Kuzguncukspor,Yeniyüzyıl Gençlikspor,1-2,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 3,Selimpaşaspor,Beylikdüzü Kuzeyin Kaplanları SK,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 3,Sultangazispor,İzzetpaşa SK,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 5,Göktürk Saray,Paşabahçe,2-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 5,Nart Spor Kulübü,Reşitpaşa SK,0-0,0,0
-13:28,Started,İstanbul Süper Amatör Ligi - Group 5,Tuzla 1954 Spor,Zeytinburnu Irmakspor,0-0,0,0
-13:28,Started,Ankara Süper Amatör Ligi,Başkent Fatihspor,Çubuk 1959 SK,0-0,0,0
-13:28,Started,Bursa Süper Amatör Ligi - Group 1,Bursa Bağlarbaşıspor,Çalıspor,0-0,0,0
-13:28,Started,Bursa Süper Amatör Ligi - Group 1,Bursa Karıncalıgücü,Nilüfer Kızılcıklıspor,0-0,0,0
-13:28,Started,Bursa Süper Amatör Ligi - Group 1,Odunlukspor,Burgazspor,0-0,0,0
-13:28,Started,Bursa Süper Amatör Ligi - Group 1,Çotanakspor,Livanespor,0-0,0,0
-13:29,Started,Bursa Süper Amatör Ligi - Group 2,Bursa Merinosspor,Ovaakçaspor,0-0,0,0
-13:29,Started,Bursa Süper Amatör Ligi - Group 2,Bursa Tütünspor,Yıldırım Erikli Gençlikspor,0-0,0,0
-13:29,Started,Bursa Süper Amatör Ligi - Group 2,İnegöl Cerrah Gençlikspor,Panayır Güneşspor,0-0,0,0
-13:29,Started,Bursa Süper Amatör Ligi - Group 2,Tirilye SK,Görükle İpekspor,0-0,0,0
-13:29,Started,Bursa Süper Amatör Ligi - Group 2,Yenişehir Belediyespor,Bursa 1326 FK,0-0,0,0
-13:29,Started,Samsun Süper Amatör Ligi,Karasamsunspor,Tekkeköyspor,0-0,0,0
-13:29,Started,Samsun Süper Amatör Ligi,Samsun Vefaspor,Salıpazarı Belediyespor,0-0,0,0
-13:29,Started,Samsun Süper Amatör Ligi,Termespor,Çarşamba Gençlergücü,0-0,0,0
-13:29,Started,Samsun Süper Amatör Ligi,Vezirköprü Belediyespor,Dededağı FK,0-0,0,0
-13:29,Started,Malatya 1. Amatör Ligi - Group 1,Kaldırımgücü,Akçadağspor,0-0,0,0
-13:29,Started,Malatya 1. Amatör Ligi - Group 2,Malatya İdman Yurdu,Sürgüspor,0-0,0,0
-13:29,Started,Aydın Süper Amatör Ligi,Eskiçinespor,Germencikspor,0-0,0,0
-13:29,Started,Aydın Süper Amatör Ligi,Kardeşköy SK,Aydın Sanayispor,0-0,0,0
-13:29,Started,Aydın Süper Amatör Ligi,Sazlı Gençlik SK,Moralıspor,0-0,0,0
-13:29,Started,Diyarbakır Süper Amatör Ligi - Group 1,Erganispor,Hançepekspor,0-0,0,0
-13:29,Started, Trabzon 1. Amatör Ligi - Group 1,Altın Ayaklar SK,Kaymaklıgücü,0-0,0,0
-13:29,Started, Trabzon 1. Amatör Ligi - Group 1,Trabzon Ortahisar Kanuni FK,Çaykaraspor,0-0,0,0
-13:29,Started,"Sakarya Süper Amatör Ligi, Group B",Kazımpaşa BSK,Alaağaçspor,0-0,0,0
-13:29,Started,Mersin Süper Amatör Ligi - Group B,Kuvayi Milliye SK,Mersin Galataspor,0-0,0,0
-13:29,Started,Mersin Süper Amatör Ligi - Group B,Akdenizgücü,Erdemlispor,0-0,0,0
-13:29,Started,Gaziantep Süper Amatör Ligi - Group 2,Araban Belediyespor,Gaziantep Güneydoğuspor,0-0,0,0
-13:29,Started,Sivas 1. Amatör Ligi - Group C,Sivas Demirspor,Zaraspor FK,0-0,0,0
-13:29,Started,Kayseri Süper Amatör Ligi - Group A,Kayseri Esen Metalspor,Başakpınar Belediyespor,0-3,0,0
-13:30,Started,Kayseri Süper Amatör Ligi - Group A,Talas Anayurtspor,Erciyes Esen Makinespor,0-1,0,0
-13:30,Started,Kayseri Süper Amatör Ligi - Group A,Amaratspor,Argıncıkspor,0-0,0,0
-13:30,Started,Kayseri Süper Amatör Ligi - Group A,Özvatan Gençlik,Kayseri Atletik SK,0-0,0,0
-13:30,Started,Denizli Süper Amatör Ligi - Group 2,Sarayköyspor,Bereketlispor,0-0,0,0
-13:30,Started,Denizli Süper Amatör Ligi - Group 2,Yeni Güneyspor,Kalınkozspor,0-0,0,0
-13:30,Started,Denizli Süper Amatör Ligi - Group 2,Akhan Vefaspor,Denizli Şemiklerspor,0-0,0,0
-13:30,Started,Şanlıurfa Süper Amatör Ligi,Ceylanpınar Belediyespor,Suruç Gençlikspor,0-0,0,0
-13:30,Started,Şanlıurfa Süper Amatör Ligi,Siverekspor,Bozova Belediyespor,0-0,0,0
-13:30,Started,Şanlıurfa Süper Amatör Ligi,Suruç Belediyespor,Ceylanpınar Demirspor,0-0,0,0
-13:30,Started,"Balıkesir Süper Amatör Ligi, Group A",Susurlukspor,Kepsut Belediyespor,0-0,0,0
-13:30,Started,"Balıkesir Süper Amatör Ligi, Group A",Balıkesir Yıldızspor,Gömeç Belediyespor,0-0,0,0
-13:30,Started,"Adana Süper Amatör Ligi, Group A",Suluca Organize Sanayispor,Aladağgücü,0-0,0,0
-13:30,Started,"Adana Süper Amatör Ligi, Group A",Adana Kiremithanespor,Ceyhangücü,0-0,0,0
-13:30,Started,"Adana Süper Amatör Ligi, Group B",Karataş Belediye Gençlik SK,Havuzlubahçe,0-0,0,0
-13:30,Started,"Adana Süper Amatör Ligi, Group B",Kozan İmarspor,Ceyhan Doğanspor,0-0,0,0
-13:30,Started,Bartın 1. Amatör Ligi,Amasraspor,Kızılelma Kültürspor,0-0,0,0
-13:30,Started,Bartın 1. Amatör Ligi,Kemer Gençlik SK,Ulus Çınarspor,0-0,0,0
-13:30,Started,Bartın 1. Amatör Ligi,Kozcağız Belediyespor,Bartın Gençlerbirliği,0-0,0,0
-13:30,Started,Bartın 1. Amatör Ligi,Kumluca Doğa Sporları Dağcılık,Çaydüzü Balambaspor,0-0,0,0
-13:30,Started,Bartın 1. Amatör Ligi,Kurucaşilespor,Bartıngücü,0-0,0,0
-13:30,Started,Bartın 1. Amatör Ligi,Arıt Kayadibispor,Bartın Gençlik,0-0,0,0
-13:30,Started,Yalova Süper Amatör Ligi,1973 Tokmakspor,Çiftlikköy Belediyespor,0-0,0,0
-13:31,Started,Yalova Süper Amatör Ligi,Termal Belediyespor,Kaytazdere Belediyespor,0-0,0,0
-13:31,Started,Yalova Süper Amatör Ligi,Teşvikiye Belediyespor,Altınova Belediyespor,0-0,0,0
-13:31,Started,"Elazığ 1. Amatör Ligi, Group B",Elazığ Şekerspor,Elazığ DSİ Spor,0-0,0,0
-13:31,Started,"Elazığ 1. Amatör Ligi, Group B",Yurtbaşı Belediyesi 23 Spor,Elazığ 2023 SK,0-0,0,0
-13:31,Started,Tokat 1. Amatör Ligi,Topçamspor,Niksar Belediyespor,0-0,0,0
-13:31,Started," Batman 1. Amatör Ligi, Group B",İluh 72 Spor,Batman Vefaspor,0-0,0,0
-13:31,Started," Batman 1. Amatör Ligi, Group B",Tilmerçspor,Batman Yeşiltepespor,0-0,0,0
-13:31,Started," Batman 1. Amatör Ligi, Group C",Binatlı Güvenspor,Bıçakcı Köyü SK,0-0,0,0
-13:31,Started,"Bolu 1. Amatör Ligi, Group A",Kızıkspor,Geredespor,0-0,0,0
-13:31,Started,"Bolu 1. Amatör Ligi, Group B",Özel İdare Köroğlu SK,Sebenspor,0-0,0,0
-13:31,Started,Konya Süper Amatör Ligi - Group 1,Karapınar Belediyespor,Beyşehir Üzümlüspor,0-0,0,0
-13:31,Started,Konya Süper Amatör Ligi - Group 1,Konya Monivaspor,Kadınhanı Belediyespor,0-0,0,0
-13:31,Started,Konya Süper Amatör Ligi - Group 1,Konya Karakartallarspor,Havzanspor,0-0,0,0
-13:31,Started,"Muğla Süper Amatör Ligi, Playoffs",Turgutreis SK,Kıyıkışlacıkspor,0-0,0,0
-13:31,Started,Çanakkale Süper Amatör Ligi,Bozcaadaspor,Bayramiç Belediyespor,0-0,0,0
-13:31,Started,Çanakkale Süper Amatör Ligi,Gelibolu Aydoğanspor,Gümüşçayspor,0-0,0,0
-13:31,Started,Çanakkale Süper Amatör Ligi,Yeni Çanspor,Geliboluspor,0-0,0,0
-13:31,Started,Çanakkale Süper Amatör Ligi,Çanakkale Ayvacık Belediyespor,Kepez Hamidiyespor,0-0,0,0
-13:31,Started,"Kütahya Süper Amatör Ligi, Group A",Naşaspor,Kütahya Uluköy SK,0-0,0,0
-13:31,Started,"Kütahya Süper Amatör Ligi, Group A",Balkan Termikspor,1867 Simavspor,0-0,0,0
-13:31,Started,Tekirdağ Süper Amatör Ligi,Akçeşmespor,Ergene Gençlerbirliği,0-0,0,0
-13:31,Started,Tekirdağ Süper Amatör Ligi,Güngörmezspor,Kızılpınarspor,0-0,0,0
-13:31,Started,Düzce Süper Amatör Ligi,Beyköy Belediyespor,Gölyakaspor,0-0,0,0
-13:32,Started,Düzce Süper Amatör Ligi,Karadeniz Kaynaşlı SK,Saçmalıpınarspor,0-0,0,0
-13:32,Started,Düzce Süper Amatör Ligi,Düzce 1905 Spor,Aziziyespor,0-0,0,0
-13:32,Started,Kırklareli Süper Amatör Ligi,Evrensekiz Evrenspor,Pınarhisarspor,0-0,0,0
-13:32,Started,Kırklareli Süper Amatör Ligi,Lüleburgazspor,Lüleburgaz Kentspor,0-0,0,0
-13:32,Started,Kırklareli Süper Amatör Ligi,Çakıllıspor,Vizespor,0-0,0,0
-13:32,Started,Kırklareli Süper Amatör Ligi,Karahıdırspor,Üsküpspor,0-0,0,0
-13:32,Started,Zonguldak Süper Amatör Ligi,Alaplı Belediyespor,Filyos Sefercikspor,0-0,0,0
-13:32,Started,Zonguldak Süper Amatör Ligi,Kilimli Belediyespor,Terakkispor,0-0,0,0
-13:32,Started,Zonguldak Süper Amatör Ligi,Kozlu İhsaniyespor,Sücüllü Yalıboyuspor,0-0,0,0
-13:32,Started,Zonguldak Süper Amatör Ligi,Karaelmasspor,Kozlu Belediyespor,0-0,0,0
-13:32,Started,Zonguldak Süper Amatör Ligi,Velioğlu Gelişimspor,Kayıkçılar Gençlerbirliği,0-0,0,0
-13:32,Started,"Osmaniye 1. Amatör Ligi, Group A",Düziçi Belediyespor,Osmaniye Yeşilova,0-0,0,0
-13:32,Started,"Osmaniye 1. Amatör Ligi, Group A",Karaçay Gençlik,Kadirli İdman Yurdu,0-0,0,0
-13:32,Started,"Osmaniye 1. Amatör Ligi, Group A",Korkut Ata Üniversitesi,Dervişiyespor,0-0,0,0
-13:32,Started,"Osmaniye 1. Amatör Ligi, Group A",Osmaniye Önderspor,Kadirlispor,0-0,0,0
-13:32,Started,Niğde 1. Amatör Ligi,Niğde Belediyesi Spor Amatör,Niğde Çiftlikspor,0-0,0,0
-13:32,Started,"Nevşehir 1. Amatör Ligi, Group A",Gülşehir Belediye Gençlik,Nevşehir Eğitim Gençlik,0-0,0,0
-13:32,Started,"Nevşehir 1. Amatör Ligi, Group A",Kapadokya Avanosspor,Özkonakspor,0-0,0,0
-13:32,Started,"Nevşehir 1. Amatör Ligi, Group A",Nevşehir İl Özel İdarespor,Kozaklıspor,0-0,0,0
-13:32,Started,UAE 3rd Division,United Sport FC,Emerald SC,0-0,0,0
-13:32,Halftime,V-League 1,Công An Hà Nội,Ninh Bình FC,3-1,0,0
-13:32,1st half,Super League,Green Buffaloes,Red Arrows,0-0,0,0
-13:32,1st half,Super League,Mutondo Stars,NAPSA Stars,0-0,0,0
+13:53,Halftime,LaLiga,Real Madrid,Rayo Vallecano,1-0,0.35,0.42
+13:53,1st half,VriendenLoterij Eredivisie,Heracles Almelo,Fortuna Sittard,0-0,0.05,0.05
+13:53,1st half,VriendenLoterij Eredivisie,PSV Eindhoven,Feyenoord,3-0,1.22,0.10
+13:53,2nd half,Pro League,Standard Liège,RSC Anderlecht,2-0,1.13,1.22
+13:53,1st half,Mozzart Bet Superliga,FK Novi Pazar,FK Spartak Subotica,0-1,0,0
+13:53,Halftime,"CAF Champions League, Group D",Simba SC,Espérance Tunis,2-0,0,0
+13:53,Halftime,LaLiga 2,Almería,AD Ceuta,3-1,0,0
+13:53,2nd half,2. Bundesliga,Fortuna Düsseldorf,SC Paderborn 07,0-1,0,0
+13:53,2nd half,2. Bundesliga,Hertha BSC,Darmstadt 98,2-1,0,0
+13:53,2nd half,2. Bundesliga,SG Dynamo Dresden,Arminia Bielefeld,1-0,0,0
+13:53,Halftime,1. Lig,Boluspor,Sakaryaspor,0-0,0,0
+13:53,2nd half,Czech First League,1. FC Slovácko,Baník Ostrava,2-2,0,0
+13:53,1st half,Ekstraklasa,Wisła Płock,Raków Częstochowa,0-0,0,0
+13:54,Halftime,Swiss Super League,FC Luzern,FC St. Gallen 1879,0-1,0,0
+13:54,1st half,Premiership,TS Galaxy,Sekhukhune United,0-1,0,0
+13:54,2nd half,Thai League 1,Buriram United,True Bangkok United,0-2,0,0
+13:54,2nd half,Challenger Pro League,Koninklijke Lierse Sportkring,K. Beerschot V.A.,1-1,0,0
+13:54,2nd half,Challenger Pro League,KV Kortrijk,KSC Lokeren,1-2,0,0
+13:54,Halftime,Frauen-Bundesliga,Hamburger SV,SC Freiburg,0-1,0,0
+13:54,2nd half,Liga F Moeve,Costa Adeje Tenerife,Real Sociedad,1-1,0,0
+13:54,2nd extra,Club Friendly Games,FC Kaluga,Torpedo Miass,4-1,0,0
+13:54,Halftime,Club Friendly Games,Vasalunds IF,Sollentuna FF,0-0,0,0
+13:54,2nd half,Club Friendly Games,Dynamo Brest,Gomel,3-1,0,0
+13:54,2nd half,Club Friendly Games,Lokomotiv Tashkent,FC Kyzylzhar,0-1,0,0
+13:54,2nd half,Club Friendly Games,SV Lippstadt 08,Sportfreunde Lotte,0-1,0,0
+13:54,1st half,Club Friendly Games,FC Lokomotíva Košice,MŠK Novohrad Lučenec,0-0,0,0
+13:54,1st half,Club Friendly Games,FC Ordabasy,KF Shkëndija,1-0,0,0
+13:54,Halftime,Club Friendly Games,FC Rostov,Rodina Moscow,0-0,0,0
+13:54,1st half,Club Friendly Games,FC Sogdiana Jizzakh,Chelyabinsk,0-0,0,0
+13:54,Halftime,Club Friendly Games,FK Rostov Veliki,Rodina Moscow,0-0,0,0
+13:54,Halftime,Club Friendly Games,Sarpsborg 08,Östers IF,2-0,0,0
+13:54,1st half,Club Friendly Games,FC Bruchsal,FSV Hollenbach,0-1,0,0
+13:54,1st half,Club Friendly Games,FC Stauceni,Sheriff II,0-0,0,0
+13:54,1st half,Club Friendly Games,FC Zhenis II,FC Bihor Oradea,0-0,0,0
+13:54,2nd half,"CAF Confederations Cup, Group B",Maniema Union,Wydad Casablanca,2-1,0,0
+13:54,Halftime,"CAF Confederations Cup, Group C",AS Otohô,Singida Black Stars SC,0-0,0,0
+13:54,Halftime,"CAF Confederations Cup, Group C",Stellenbosch,CR Belouizdad,0-1,0,0
+13:55,Halftime,"CAF Confederations Cup, Group D",Kaizer Chiefs,ZESCO United,1-0,0,0
+13:55,2nd half,"Super League 2, Women",Durham W.F.C.,Portsmouth Women,1-1,0,0
+13:55,Halftime,"Super League 2, Women",Sheffield United Women,Charlton Athletic WFC,1-1,0,0
+13:55,Halftime,"Segunda Federación Femenina, Group 2",Futbolellas CFF,CD Argual,0-2,0,0
+13:55,1st half,"Segunda Federación Femenina, Group 2",Rayo Vallecano,Dinamo Guadalajara,1-0,0,0
+13:55,Halftime,"División de Honor Juvenil, Group 1",CD Lugo U19,Gimnastica de Torrelavega U19,0-0,0,0
+13:55,Halftime,"División de Honor Juvenil, Group 5",CF Trival Valderas Alcorcon U19,UD La Cruz Villanovense U19,0-0,0,0
+13:55,2nd half,3. Liga,SSV Ulm 1846,MSV Duisburg,1-0,0,0
+13:55,Halftime,2. Frauen-Bundesliga,Eintracht Frankfurt II,VfR Warbeyen,1-0,0,0
+13:55,Halftime,2. Frauen-Bundesliga,Wolfsburg II,SC Sand,0-2,0,0
+13:55,1st half,"Serie C, Group A",Pro Vercelli,Novara,1-0,0,0
+13:55,1st half,"Serie C, Group B",Juventus Next Gen U23,Pineto,0-0,0,0
+13:55,1st half,"Serie C, Group B",Ternana,Torres,0-0,0,0
+13:55,1st half,"Serie C, Group C",Atalanta U23,Benevento,2-1,0,0
+13:55,1st half,"Serie C, Group C",Monopoli,Latina,0-0,0,0
+13:55,1st half,"Serie C, Group C",Trapani,Team Altamura,0-0,0,0
+13:55,1st half,"Serie D, Group A",Asti,Cairese,0-0,0,0
+13:55,1st half,"Serie D, Group A",Celle Varazze FBC,Lavagnese,0-1,0,0
+13:55,1st half,"Serie D, Group A",Derthona,Valenzana,1-0,0,0
+13:55,1st half,"Serie D, Group A",Novaromentin,Biellese 1902,0-0,0,0
+13:55,1st half,"Serie D, Group A",Saluzzo,Gozzano,1-0,0,0
+13:55,1st half,"Serie D, Group A",Varese,Club Milano,0-0,0,0
+13:55,1st half,"Serie D, Group B",Casatese Merate,Oltrepò FBC,0-0,0,0
+13:56,1st half,"Serie D, Group B",Castellanzese,Nuova Sondrio Calcio,1-0,0,0
+13:56,1st half,"Serie D, Group B",Leon Monza e Brianza,Folgore Caratese,0-0,0,0
+13:56,1st half,"Serie D, Group B",Pavia Calcio,Real Calepina,0-0,0,0
+13:56,1st half,"Serie D, Group B",Varesina,Villa Valle,0-0,0,0
+13:56,1st half,"Serie D, Group B",Virtus CiseranoBergamo,Caldiero Terme,0-0,0,0
+13:56,1st half,"Serie D, Group B",Vogherese,Brusaporto,0-0,0,0
+13:56,1st half,"Serie D, Group C",Conegliano 1907,AC Este 1920,0-0,0,0
+13:56,1st half,"Serie D, Group C",F.C. Maia Alta Obermais,Portogruaro,0-0,0,0
+13:56,1st half,"Serie D, Group C",Legnago Salus,Calvi Noale,0-0,0,0
+13:56,1st half,"Serie D, Group C",Luparense,Campodarsego,0-0,0,0
+13:56,1st half,"Serie D, Group C",Mestre,Cjarlins Muzane,0-0,0,0
+13:56,1st half,"Serie D, Group C",San Luigi Calcio,Vigasio,0-0,0,0
+13:56,1st half,"Serie D, Group C",Treviso,Bassano,0-0,0,0
+13:56,1st half,"Serie D, Group C",Union Clodiense,Brian Lignano Calcio,0-0,0,0
+13:56,1st half,"Serie D, Group C",Unione La Rocca Altavilla,Adriese,1-0,0,0
+13:56,1st half,"Serie D, Group D",AC Crema 1908,Pro Sesto 1913,0-1,0,0
+13:56,1st half,"Serie D, Group D",A.S.D. Cittadella Vis Modena,AC Sant'Angelo 1907,0-0,0,0
+13:56,1st half,"Serie D, Group D",ASD Tropical Coriano,CS Trevigliese,0-0,0,0
+13:56,1st half,"Serie D, Group D",Calcio Desenzano,SC Progresso,1-0,0,0
+13:56,1st half,"Serie D, Group D",FC Sangiuliano City,SS Correggese Calcio 1948,0-0,0,0
+13:56,1st half,"Serie D, Group D",Imolese Calcio 1919,AC Tuttocuoio 1957 San Miniato,0-0,0,0
+13:56,1st half,"Serie D, Group D",Pistoiese,Piacenza Calcio 1919,0-0,0,0
+13:56,1st half,"Serie D, Group D",SSD Rovato Vertovese,Lentigione Calcio,0-0,0,0
+13:56,1st half,"Serie D, Group D",SS Sasso Marconi Zola,AC Pro Palazzolo 1913,0-1,0,0
+13:57,1st half,"Serie D, Group E",Camaiore 1957,Grosseto,0-0,0,0
+13:57,1st half,"Serie D, Group E",Cannara,Sansepolcro,0-0,0,0
+13:57,1st half,"Serie D, Group E",Follonica Gavorrano,AC Prato,1-0,0,0
+13:57,1st half,"Serie D, Group E",Orvietana,Seravezza Pozzi,0-0,0,0
+13:57,1st half,"Serie D, Group E",Poggibonsi,Ghiviborgo,0-0,0,0
+13:57,1st half,"Serie D, Group E",Scandicci,San Donato Tavarnelle,0-0,0,0
+13:57,1st half,"Serie D, Group E",Tau Altopascio,Foligno,1-0,0,0
+13:57,1st half,"Serie D, Group E",Terranuova Traiana,ACR Siena 1904,0-1,0,0
+13:57,1st half,"Serie D, Group E",Trestina,Aquila Montevarchi,0-0,0,0
+13:57,1st half,"Serie D, Group F",Ancona,Castelfidardo,0-0,0,0
+13:57,1st half,"Serie D, Group F",Fossombrone,Sora,0-0,0,0
+13:57,1st half,"Serie D, Group F",L'Aquila,Chieti,0-0,0,0
+13:57,1st half,"Serie D, Group F",Notaresco,Giulianova,0-0,0,0
+13:57,1st half,"Serie D, Group F",Ostia Mare,Atletico Ascoli,0-0,0,0
+13:57,1st half,"Serie D, Group F",Sammaurese,Maceratese 1922,0-1,0,0
+13:57,1st half,"Serie D, Group F",San Marino,Recanatese,1-1,0,0
+13:57,1st half,"Serie D, Group F",Teramo Calcio 1913,Vigor Senigallia,3-0,0,0
+13:57,1st half,"Serie D, Group F",Termoli,UniPomezia,1-0,0,0
+13:57,1st half,"Serie D, Group G",Ischia,Atletico Lodigiani,1-0,0,0
+13:57,1st half,"Serie D, Group G",Monastir Kosmoto,S.S.D. Valmontone 1921,0-0,0,0
+13:57,1st half,"Serie D, Group G",Olbia,Nocerina,0-0,0,0
+13:57,1st half,"Serie D, Group G",Palmese 1914,Montespaccato,0-0,0,0
+13:57,1st half,"Serie D, Group G",Trastevere,Real Monterotondo Scalo,0-0,0,0
+13:58,1st half,"Serie D, Group H",Afragolese,Heraclea,0-0,0,0
+13:58,1st half,"Serie D, Group H",FBC Gravina,Fidelis Andria,0-0,0,0
+13:58,1st half,"Serie D, Group H",Nola,Nardò,0-0,0,0
+13:58,1st half,"Serie D, Group I",Acireale,Athletic Club Palermo,0-0,0,0
+13:58,1st half,"Serie D, Group I",Castrumfavara,Vibonese,1-0,0,0
+13:58,1st half,"Serie D, Group I",Enna Calcio,Nuova Igea Virtus,0-0,0,0
+13:58,1st half,"Serie D, Group I",Milazzo,Gelbison,0-0,0,0
+13:58,1st half,"Serie D, Group I",Paternò,Messina,0-0,0,0
+13:58,1st half,"Serie D, Group I",Reggina 1914,Savoia 1908,0-1,0,0
+13:58,2nd half,Primavera 1,Lecce U20,Roma U20,0-3,0,0
+13:58,1st half,"Serie B, Women",Bologna FC,ACF Arezzo,0-0,0,0
+13:58,2nd half,"National 2, Group B",Blois Foot 41,AS Furiani Agliani,0-2,0,0
+13:58,2nd half,Seconde Ligue Women,Stade de Reims,Rodez Aveyron,0-0,0,0
+13:58,2nd half,Seconde Ligue Women,Evian Thonon Grand Genève FC,Metz FC,1-1,0,0
+13:58,1st half,Seconde Ligue Women,EA Guingamp,Le Mans FC,0-0,0,0
+13:58,1st half,Seconde Ligue Women,OGC Nice,AJ Auxerre,0-0,0,0
+13:58,1st half,Seconde Ligue Women,Saint Malo,Lille,0-0,0,0
+13:58,2nd half,Kategoria e Pare,Lushnja,KS Burreli,0-0,0,0
+13:58,Halftime,"Kategoria e Dytë, Group B",Akademia Eagle Football,Partizani Tiranë B,2-0,0,0
+13:58,Halftime,"Kategoria e Dytë, Group B",Butrinti Sarandë,Bylis Ballsh B,1-0,0,0
+13:58,2nd half,"Kategoria e Dytë, Group B",FK Tomori Berat,Shkumbini Peqin,3-2,0,0
+13:58,Started,"NPL WA Night Series, Group C",Stirling Macedonia FC,Balcatta Etna FC,0-0,0,0
+13:58,1st half,Nationale 1 ACFF,Royal Racing Club Stockay-Warfusée,SL16 Football Campus U23,1-0,0,0
+13:58,1st half,Nationale 1 ACFF,Union Namur,Union Rochefortoise,0-0,0,0
+13:59,1st half,Tweede Afdeling VV B,K. Berg En Dal V.V.,KVK Wellen,0-0,0,0
+13:59,1st half,Tweede Afdeling ACFF,RSC Tillfois,RFC Raeren-Eynatten,0-0,0,0
+13:59,Started,Liège - 3ème Provencial D,RCS Bellevaux-Ligneuville,RUS Emmels,0-0,0,0
+13:59,1st half,"Capixaba, Série A",Vilavelhense,Forte FC,0-1,0,0
+13:59,Halftime,"Goiano, 1ª Divisão",Jataiense,Inhumas,0-0,0,0
+13:59,Halftime,"Paraense, Serie A",Tuna Luso,Águia de Marabá FC,0-0,0,0
+13:59,Halftime,"Paulista, Série A2",EC Santo André,Água Santa,0-1,0,0
+13:59,Halftime,"Paulista, Serie A3",EC São Bernardo,União Suzano AC,1-1,0,0
+13:59,Halftime,"Paulista, Serie A3",Portuguesa Santista,Rio Branco-SP,1-0,0,0
+13:59,Started,Bulgaria Friendly Games,FC Ograzhdenets Karnolovo,FC Akademia Levski Valtata Samuilovo,0-0,0,0
+13:59,Halftime,Primus League,BG Green Maze FC,Aigle Noir CS,0-1,0,0
+13:59,Started,3. ŽNL Hvarska liga,HNK Južnjak,NK Varbonj,0-0,0,0
+13:59,Started,3. ŽNL Hvarska liga,NK Mladost Sućuraj,HNK Jadran Stari Grad,0-0,0,0
+13:59,2nd half,"2nd Division, Relegation Round",Iraklis Gerolakkou,Ethnikos Latsion,2-0,0,0
+13:59,Started,4. Division ,A.E. Troullon,Orfeas Lefkosias,0-0,0,0
+13:59,Started,Ligue 1 - Groupe A,AS Saint-Luc de Kananga,US Tshinkunku,0-0,0,0
+13:59,Started,Ligue 1 - Groupe A,US Panda B52,Groupe Bazano,0-0,0,0
+13:59,Started,Ligue 1 - Groupe B,AF Anges Verts,AC Rangers,0-0,0,0
+13:59,2nd half,U21 Premier League 2,Leeds United U21,Arsenal U21,0-2,0,0
+13:59,Halftime,U21 Premier League 2,Sunderland U21,Leicester City U21,2-1,0,0
+13:59,2nd half,U21 Professional Development League,Brentford U21,Bristol City U21,1-0,0,0
+13:59,Started,"Stranger Charity Cup, Group B",Vale Recreation FC,Belgrave Wanderers FC,0-0,0,0
+13:59,2nd half,Premier League,Mekelle 70  Enderta,Ethiopia Bunna,1-1,0,0
+14:00,Halftime,Premier League,Fasil Ketema,Saint George,0-0,0,0
+14:00,Started,KTFF Super League,Alsancak Yesilova SK,Cihangir GSK,0-0,0,0
+14:00,Started,KTFF Super League,Mağusa Türk Gücü,Mormenekşe GBSK,0-0,0,0
+14:00,Started,KTFF 1.Lig,Aslanköy GSD,Binatlı YSK,0-0,0,0
+14:00,Started,KTFF 1.Lig,Geçitkale GSK,Kozanköy KSK,0-0,0,0
+14:00,Started,KTFF 1.Lig,Hamitköy ŞHSK,Türk Ocağı Limasol SK,0-0,0,0
+14:00,Started,KTFF 1.Lig,Yalova SK,Maraş GSK,0-0,0,0
+14:00,Started,Grand Est Régional 1 - Groupe B,FCSR Haguenau 2,US Reipertswiller,0-0,0,0
+14:00,Started,Grand Est Régional 1 - Groupe C,COS Villers Nancy,Nancy 2,0-0,0,0
+14:00,Started,Grand Est Régional 1 - Groupe C,Jarville,AS Sundhoffen,0-0,0,0
+14:00,Started,Normandie Régional 1 - Group B,Le Havre AC 2,AS de Cherbourg Foot,0-0,0,0
+14:00,Started,Normandie Régional 2 - Group D,FC Serquigny Nassandres,SPN Vernon,0-0,0,0
+14:00,Started,Normandie Régional 2 - Group D,Football Athlétic Club Alizay,Pacy Ménilles Racing Club 2,0-0,0,0
+14:00,Started,Normandie Régional 3 - Group C,ASL Chemin Vert,FC Serquigny Nassand 2,0-0,0,0
+14:00,Started,"Bourgogne-Franche-Comté Régional 1, Group A",AS Garchizy,FR Saint Marcel,0-0,0,0
+14:00,Started,"Bourgogne-Franche-Comté Régional 1, Group A",US Cheminots Dijon,IS Selongey,0-0,0,0
+14:00,Started,"BFC Régional 2 Bonglet, Poule C",AS Jura Dolois Football 2,AS St Apollinaire 2,0-0,0,0
+14:00,Started,"BFC Régional 2 Bonglet, Poule C",US Coteaux de Seille,Besançon Football 2,0-0,0,0
+14:00,Halftime,Regionalliga West,1. FC Köln II U23,SC Paderborn 07 II U21,0-0,0,0
+14:00,1st half,Oberliga Niederrhein,SV Sonsbeck,FC Buderich 02,0-0,0,0
+14:00,Started,Kreisliga A Düsseldorf,SC Rot-Weiß Lintorf,FC Bosporus Düsseldorf,0-0,0,0
+14:00,Started,Germany Friendly Games,TSV Elmshausen,SKG Erfelden,0-0,0,0
+14:00,Halftime,Germany Friendly Games,FC Fürth II,SG Hammelbach/​Scharbach,1-0,0,0
+14:00,Halftime,Gamma Ethniki - Group 1,APS Panthrakikos,AO Xanthis,0-0,0,0
+14:01,Halftime,Gamma Ethniki - Group 1,MGS Orestis Orestiadas,Iraklis Thermaikou,0-1,0,0
+14:01,1st half,Gamma Ethniki - Group 2,AO Asteras Karditsas,FS Eordaikos Ptolemaidas,0-0,0,0
+14:01,Halftime,Gamma Ethniki - Group 2,AS Sarakinos,FS Kozani,0-0,0,0
+14:01,1st half,Gamma Ethniki - Group 2,NPS Veria 1960,PS Ethnikos Neou Keramidiou,1-1,0,0
+14:01,2nd half,Gamma Ethniki - Group 3,AE Anagennisi Schimatariou,AS Aris Filiaton,1-3,0,0
+14:01,Halftime,Gamma Ethniki - Group 3,AO Anthoupolis,AE Lefkimmis,1-1,0,0
+14:01,Halftime,Gamma Ethniki - Group 3,AS Asteras Stavrou,AO Trikala,0-0,0,0
+14:01,1st half,Gamma Ethniki - Group 3,PO Elassonas,PAS Lamia 1964,0-0,0,0
+14:01,Halftime,Gamma Ethniki - Group 3,Proodos Rogon 1966,AO Tilykratis Lefkadas,1-0,0,0
+14:01,1st half,Gamma Ethniki - Group 4,AO Ermis Meligous,AS Panthouriakos,0-1,0,0
+14:01,1st half,Gamma Ethniki - Group 4,AO Miltiadis Pyrgou Trifilias,APS Zakynthos 1961,0-1,0,0
+14:01,Halftime,Gamma Ethniki - Group 4,APS Thyella Patron,GE Panachaiki,1-1,0,0
+14:01,Halftime,Gamma Ethniki - Group 4,GPS Pelopas Kiatou,AO Loutraki,1-0,0,0
+14:01,Halftime,Gamma Ethniki - Group 4,GS Panegialios,PAS Korinthos,2-0,0,0
+14:01,1st half,Gamma Ethniki - Group 5,AO Neas Artakis,AO Amarynthiakos,0-0,0,0
+14:01,Halftime,Gamma Ethniki - Group 5,AS Apollon Kalythion,GS Diagoras Rodou,1-1,0,0
+14:01,1st half,Gamma Ethniki - Group 5,Ethnikos Asteras FC,AO Karystou,0-0,0,0
+14:01,2nd half,Gamma Ethniki - Group 6,AO Ilysiakos,AE Mykonou,2-1,0,0
+14:01,1st half,Gamma Ethniki - Group 6,AO Giouchtas Archanon,AO Ionikos Nikeas,0-0,0,0
+14:01,1st half,Gamma Ethniki - Group 6,APO Thyella Rafinas,AO Chaidariou,1-1,0,0
+14:01,1st half,Gamma Ethniki - Group 6,APS Granitis Agias Marinas,AO Kyanous Astir Varis,1-0,0,0
+14:01,1st half,Gamma Ethniki - Group 6,AS Aias Salaminas,PO Atsalenios,1-0,0,0
+14:01,1st half,Gamma Ethniki - Group 6,OFPF Ethnikos,AO Saronikos Anavyssou,0-0,0,0
+14:02,1st half,"1. Division, Women",Panathinaikos,Asteras Aktor,1-1,0,0
+14:02,Started,"2. Division Women, Group A",AE Larisas,Elpides Karditsas 94,0-0,0,0
+14:02,Started,"2. Division Women, Group A",Shooters WFC,Sirines Grevenon  FC,0-0,0,0
+14:02,Started,"2. Division Women, Group B",Atlas Epirus WFC,Panetolikos WFC,0-0,0,0
+14:02,Started,"2. Division Women, Group B",Flamingo Messologgiou,Pyrgos AFC Women,0-0,0,0
+14:02,2nd half,U19 Super League,Volos NFC U19,AE Larissa U19,1-0,0,0
+14:02,Started,"U19 Super League 2, Group B",GS Marko U19,Ilioupoli U19,0-0,0,0
+14:02,Started,A EPS Anatolikis Attikis,AO Kerateas,APO Aittitos Spaton,0-1,0,0
+14:02,Started,A EPS Anatolikis Attikis,Aris Voulas,AO Atlantis Anthousa,0-0,0,0
+14:02,Started,A EPS Anatolikis Attikis,Kryoneriou APO,Thiseas Neas Makris,0-0,0,0
+14:02,Started,A EPS Anatolikis Attikis,OA Achilleas Kato Acharnon,Glykon Neron AO,0-1,0,0
+14:02,Started,A1 EPS Argolidas,AE Ermionidas,AO Mpoumpoulina Spetson,0-0,0,0
+14:02,Started,A2 EPS Argolidas - Group 2,A.E.S. Methana,Erasinos Kefalariou,1-0,0,0
+14:02,Started,A EPS Athens - Group 2,AS Atromitos Metamorfosis,APO Fostiras Tavrou,0-0,0,0
+14:02,Started,A EPS Athens - Group 2,GS Apollon Smyrnis,AO Trachonon Alimou,0-0,0,0
+14:02,Started,B EPS Athens - Group 1,AO Melission,Asteras Glyfadas FC,0-0,0,0
+14:02,Started,B EPS Athens - Group 3,AO Athinais Kypselis,AO Lykovrysis,0-0,0,0
+14:02,Started,B EPS Athens - Group 3,Athinaikos AS Virona,AO Gyziakos,0-0,0,0
+14:02,Started,C EPS Athens - Group 1,PAO Atromitos Chalandriou,AE Peristeriou,0-0,0,0
+14:02,Halftime,B EPS Chanion,AO Chalis Varypetrou,Aris Voukolion,0-2,0,0
+14:02,Halftime,B EPS Chanion,Aspida Naustahmou,Titan Kalives,1-0,0,0
+14:02,1st half,B EPS Chanion,Poseidonas Tsikalarion,Asteras Xalepas,1-0,0,0
+14:02,Halftime,C EPS Chanion,AGS Sfakion,AO Koumpes,0-0,0,0
+14:02,Halftime,C EPS Chanion,Neos Kissamikos B,Irtakina Kantanou-Selinou,1-1,0,0
+14:03,Started,A EPS Chios,APE Mikrasiatiki Chiou,APO Kanaris Neniton,0-0,0,0
+14:03,Started,B EPS Dodekanisou Group 1,AOF Kleovoulos Lindou,AO Evagoras Rodou,1-1,0,0
+14:03,Started,B EPS Dodekanisou Group 2,AS Akousilaos Fanon,G.A.S Panthires Rodou,0-0,0,0
+14:03,Started,B EPS Dodekanisou Group 2,Ippotes Palias Polis,Polistratos Laermon,0-1,0,0
+14:03,Started,A EPS Epirus,AE Kranoulas,AO Anatolis,0-0,0,0
+14:03,Started,A EPS Evoias,AOB Atromitos Vasilikon,AO Neon Styron 2015,0-0,0,0
+14:03,Started,A EPS Evoias,APKO Drosias,AO Dystou,0-0,0,0
+14:03,Started,A EPS Evoias,APS Stavrou,AO Ermis Piliou,0-0,0,0
+14:03,Started,A EPS Evoias,AS Anagennisi Mantoudiou,AO Aidipsos,1-0,0,0
+14:03,Started,A EPS Evoias,FS Tamynaikos Aliveriou,AS Evoikos Agiou Nikolaou,0-0,0,0
+14:03,Started,B EPS Evoias Group A,AEK Chalkidas,PAS Olympiakos Limnis,1-1,0,0
+14:03,Started,B EPS Evoias Group A,AO Kyzikos Neas Artakis,AEK Kirinthou,0-0,0,0
+14:03,Started,B EPS Evoias Group A,AS Akratitos Kechrion,TMP Enosi Messopotamias,0-0,0,0
+14:03,Started,B EPS Evoias Group A,Enosi Apolloniou Istiaias,AO Pissonas,1-0,0,0
+14:03,Started,B EPS Evoias Group B,AE Lilantiou,AO Agiou Louka,0-1,0,0
+14:03,Started,B EPS Evoias Group B,AO Marmariou,AO Anagennisi Afratiou,0-0,0,0
+14:03,Started,B EPS Evoias Group B,AO Miaoulis Fyllon,AO Avlonariou,0-0,0,0
+14:03,Started,A EPS Fokidas,AS Fokikos Amfissas,AS Akadimia 94,4-0,0,0
+14:03,Started,A1 EPS Irakleiou,AO Tympakiou,AE Katsampa,0-0,0,0
+14:03,Started,A1 EPS Irakleiou,AS Agias Varvaras,AO Romanos Elias,0-0,0,0
+14:03,Halftime,A2 EPS Irakleiou Group 1,AO Damastas,AE Faistos,1-1,0,0
+14:03,Halftime,A2 EPS Irakleiou Group 1,ASNA Neos Irodotos,AS Paliani,0-0,0,0
+14:03,Halftime,A2 EPS Irakleiou Group 1,FS Korakas Pompias,AO Zarou,0-1,0,0
+14:03,Started,B EPS Irakleiou Group 1,AO Ermis Atsaleniou,GPS Almyros Gaziou B,0-0,0,0
+14:04,Started,B EPS Irakleiou Group 2,AO Kounavon,AO Keravnos Atsaleniou,0-0,0,0
+14:04,1st half,A EPS Ilias ,Pelopas Pyrgou AGPC,Lefkos Asteras Skourochoriou,1-0,0,0
+14:04,1st half,A EPS Ilias ,AO Asteras Amaliadas,Apollon Neas Figalias AC,1-1,0,0
+14:04,1st half,A EPS Ilias ,AS Aiantas Gastounis,APO Doxa Neas Manoladas,0-1,0,0
+14:04,1st half,A EPS Ilias ,Thyella Kardama AC,APO Kourtesiou,0-1,0,0
+14:04,Started,B EPS Ilias,PAO Kakovatou,Aris Dimitras AC,0-0,0,0
+14:04,Started,C EPS Ilias - Group B,Ifitos Kalivion Ilidas,AC Leontes Amaliadas,0-0,0,0
+14:04,Started,A EPS Kerkyras,APS Olympos Kerkyras,AS Odysseas Avlioton,0-0,0,0
+14:04,Started,B EPS Korinthias,Dafni Eksamilion,Thiella Kato Diminiou,0-0,0,0
+14:04,Started,"A EPS Kykladon - 2nd Phase, Group A",AO Pannaxiakos,AO Pagou Syros,2-0,0,0
+14:04,Started,"B EPS Larissa, Group B",Cheimaros Marmarinis,AO Filoktitis Melivoias,0-0,0,0
+14:04,Started,A EPS Pierias,Elpis Andromachis,AO Paralias,0-0,0,0
+14:04,Started,A EPS Pierias,GAS Atromitos Katerinis,GAMS Ethnikos Katerinis,0-0,0,0
+14:04,Started,A EPS Rethymnou,AO Poseidon Geraniou,AO Ermis Zonianon,0-0,0,0
+14:04,Started,A EPS Thessalias ,ASV Rigas Fereos,Akropoli Sesklou,2-0,0,0
+14:04,Started,B EPS Voiotias - Group 2,A.O. Epameinondas Lefktron,A.S. Thyella  Xironomis,0-0,0,0
+14:04,2nd half,B EPS Voiotias - Group 2,AO Melissoxori,AO Elikonas Domvrainas,1-0,0,0
+14:04,Started,B EPS Voiotias - Group 2,Apollon Neoxorakiou,AO Doxa Mourikiou,3-0,0,0
+14:04,Started,"B EPS Fthiotidas, Group A",Elateiakos,AS Dafni Libanaton,0-0,0,0
+14:04,Started,"B EPS Fthiotidas, Group B",AS Niki Agias Paraskevis,AO Pelasgiakos,0-0,0,0
+14:04,Started,B EPS Fokidas,F.C Amfissaikos 2006,PAS Oianthi Galaxidiou,0-0,0,0
+14:04,Halftime,NB II,Békéscsaba 1912 Előre,Soroksár SC,2-0,0,0
+14:04,Halftime,NB II,Karcagi SC,Mezőkövesd Zsóry,0-1,0,0
+14:05,Halftime,NB II,Szentlőrinc SE,Budafoki MTE,2-1,0,0
+14:05,Halftime,NB II,Tiszakécskei LC,Kozármisleny FC,0-1,0,0
+14:05,2nd half,Indonesia Super League,Persebaya Surabaya,Dewa United FC,2-1,0,0
+14:05,1st half,"Liga Topskor U14, LTS2, Group A, First Round",Salfas Soccer U14,M Private U14,1-0,0,0
+14:05,1st half,Pro League,Paykan,Esteghlal FC,0-0,0,0
+14:05,2nd half,Iraq Stars League,Al Mosul SC,Al-Quwa Al-Jawiya,0-1,0,0
+14:05,2nd half,Iraq Stars League,Al-Qasim SC,Duhok SC,0-3,0,0
+14:05,2nd half,Iraq Stars League,Naft Missan,Al Kahraba,0-1,0,0
+14:05,Started,Terza Categoria Calabria - Girone C,A.S.D. San Leonardo,A.S.D. Sant’Anna,0-0,0,0
+14:05,Started,Terza Categoria Calabria - Girone D,Botricello Sportiva,A.S.D. Presilana,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone A,Atletic CDR Mutina,Rolo,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone A,Brescello Piccardo,Agazzanese,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone A,Calcio Zola Predosa,Fiorenzuola,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone A,Campagnola,Corticella,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone A,Fabbrico Calcio,Real Formigine,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone A,Pontenurese,Vianese,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Castenaso Calcio,Pietracuta,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Fratta Terme,Sant'Agostino,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Massa Lombarda,Mezzolara,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Medicina Fossatone,Mesola,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Osteria Grande,Solarolo,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Sampierana,Faenza Calcio,0-0,0,0
+14:05,Started,Eccellenza Emilia-Romagna - Girone B,Young Santarcangelo,Sanpaimola,0-0,0,0
+14:05,Started,Promozione Emilia-Romagna Girone D,A.C.D. Gambettola,Bellaria Igea Marina 1956,0-0,0,0
+14:06,Started,Promozione Emilia-Romagna Girone D,A.S.D. Diegaro,Bellariva Virtus,0-0,0,0
+14:06,Started,Promozione Emilia-Romagna Girone D,Bagnacavallo Calcio,Cervia United,0-0,0,0
+14:06,Started,Promozione Emilia-Romagna Girone D,Bakia Cesenatico,Vis Novafeltria Calcio,0-0,0,0
+14:06,Started,Promozione Emilia-Romagna Girone D,Classe,Riccione Calcio,0-0,0,0
+14:06,Started,Promozione Emilia-Romagna Girone D,Savignanese,Civitella Calcio,0-0,0,0
+14:06,Started,Promozione Emilia-Romagna Girone D,S.S.D. Misano,F.C Roncofreddo 2013,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,ASD Accademia Marignanese,Superga 63 Dilettantistici,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,A.S.D Collinello,A.C.D. Torconca Cattolica,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,C.C.S. Granata Cesenatico,Rumagna,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,Gatteo F.C.,A.S.D. Verucchio,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,Rubicone Calisese,Real San Clemente,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,San Bartolo Gabicce Mare,U.S.D. Due Emme 1992,0-0,0,0
+14:06,Started,Prima Categoria Emilia-Romagna Girone H,Victoria,San Vittore,0-0,0,0
+14:06,Started,Terza Categoria Rimini - Girone A,ACP Perticara,Virtus Olimpia,0-0,0,0
+14:06,Started,Terza Categoria Rimini - Girone B,Borgo Marina 012,Real Morciano,0-0,0,0
+14:06,Started,Terza Categoria Rimini - Girone B,Taverna Montecolombo,Adriatica,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,ASDC Fiume Veneto Bannia,AS Pro Gorizia,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,ASD Forum Julii Calcio,Rive d'Arcano Flaibano,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,ASD Juventina Sant'Andrea,ASD Tolmezzo Carnia,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,Chions,ASD Muggia 1967,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,Codroipo Calcio,Sanvitese,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,Fincantieri Monfalcone,Polisportiva Tamai,1-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,Fontanafredda,ASD Chiarbola Ponziana Calcio,0-0,0,0
+14:06,Started,Eccellenza Friuli-Venezia Giulia,Kras Repen,Pordenone,0-1,0,0
+14:07,Started,Eccellenza Friuli-Venezia Giulia,USD Pro Fagagna,ASD Lavarian Mortean Esperia,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone A,Arcellasco Città di Erba,Magenta,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone A,Sestese Calcio,Lentatese,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone A,Vis Nova Giussano,Mariano Calcio,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone B,Accademia Pavese,Zingonia Verdellino,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone B,Barona Sporting 1971,Casteggio 1898,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone B,Fanfulla,RC Codogno 1908,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone B,Ponte SP Mapello,Academy Calvairate,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone B,Tribiano,Cisanese,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone C,Castellana C. G.,Carpenedolo,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone C,Castiglione,Offanenghese,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone C,Cazzagobornato Calcio,Soncinese,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone C,Città di Albino,Pianico,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone C,Darfo Boario,Juvenes Pradalunghese,0-0,0,0
+14:07,Started,Eccellenza Lombardia - Girone C,Orceana Calcio,Ciliverghe,0-0,0,0
+14:07,Started,Promozione Marche - Girone B,Aurora Treia,Borgo Mogliano Madal,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Accademia Borgomanero,Borgaro Nobis,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Aygreville Calcio,Pro Eureka,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Bulè Bellinzago,Fulgor Chiavazzese,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Calcio Settimo,Volpiano Pianese,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Città di Cossato,Lascaris,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Oleggio Sportiva,Briga Novarese,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone A,Verbania Calcio,Druentina,0-0,0,0
+14:07,Started,Eccellenza Piemonte - Girone B,Fossano Calcio,Albese Calcio,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,Giovanile Centallo,Acqui F.C.,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,Monregale Calcio,Cuneo 1905 Olmo,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,Ovadese,Luese Cristo Alessandria,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,Pinerolo FC,Alessandria,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,Pro Dronero,Chieri,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,Pro Villafranca,Vanchiglia 1915,0-0,0,0
+14:08,Started,Eccellenza Piemonte - Girone B,SD Savio Asti,Cheraschese 1904,0-0,0,0
+14:08,Started,Eccellenza Sardegna,Nuorese Calcio,Santa Teresa Gallura,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,ASD Belvedere Calcio,Larcianese,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,ASD Viareggio Calcio,US Massese 1919,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,Pro Livorno-Sorgenti,AC Sporting Cecina 1929,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,Real Cerretese,Cenaia,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,Real Forte Querceta,ASD Montespertoli,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,USD Castelnuovo Garfagnana,Lucchese Calcio,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone A,Zenith Prato,GS Fratres Perignano,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,ASD Lastrigiana,ASD Grassina,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,ASD Rondinella Marzocco,Signa 1914,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,Baldaccio Bruni,Sangiovannese,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,Colligiana,USD Antella '99,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,Figline,Certaldo,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,US Affrico,Lanciotto Campi,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,US Castiglionese 1919,Sansovino,0-0,0,0
+14:08,Started,Eccellenza Toscana - Girone B,Valentino Mazzola 1949,ASD Sport Club Asta,0-0,0,0
+14:09,Started,Eccellenza Umbria,ASCD Atletico BMG,ASD Santa Sabina,0-0,0,0
+14:09,Started,Eccellenza Umbria,ASD Pierantonio Sport,ASD Spoleto,0-0,0,0
+14:09,Started,Eccellenza Umbria,ASD Pontevalleceppi,Polisportiva Pietralunghese,0-0,0,0
+14:09,Started,Eccellenza Umbria,ASD S. Venanzo,Pontevecchio,0-0,0,0
+14:09,Started,Eccellenza Umbria,ASD Tavernelle Calcio,Narnese,0-0,0,0
+14:09,Started,Eccellenza Umbria,Ellera Calcio,Olympia Thyrus San Valentino,0-0,0,0
+14:09,Started,Eccellenza Umbria,SSD Nuova Alba,Angelana 1930,0-0,0,0
+14:09,Started,Eccellenza Umbria,Terni,Bastia,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,ACD Oppeano,Villafranca Veronese,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,ACD Villafranchese,ASD Euganea Rovolon Cervarese,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,Calcio Mozzecane,ASD Chiampo,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,Calcio Schio,ASD Calcio Porto Viro,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,Mestrino United FC,ASD Limena,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,Montecchio Maggiore,Castelnuovo DG,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,Montorio FC,Ambrosiana,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone A,Pozzonovo,Isola Rizza Roverchiara,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,ACD PortoMansuè,United Borgoricco Campetra,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,ASD Borgo Valbelluna,Godigese,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,ASD Calcio Caerano,Eclisse CareniPievigina,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,Cavarzano Belluno,USD Marosticense,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,FCD Dolo 1909 Pianiga,LeO Oderzo,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,Sandonà,Arcella,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,SSD Piovese,Giorgione,0-0,0,0
+14:09,Started,Eccellenza Veneto - Girone B,Vittorio Falmec SM,ACD Julia Sagittaria,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,Calcio Casalserugo Maserà,Calcio Saonara Villatora,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,La Rocca Monselice,Favaro 1948,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,Loreo,Ardisci e Spera,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,Savio 1971,Robeganese-Fulgor Salzano,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,Unione Cadoneghe,Albignasego Calcio,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,Union Pro 1928,Rovigo Calcio,0-0,0,0
+14:10,Started,Promozione Veneto Girone C,U.S. Torre,Nuovo Monselice Calcio,0-0,0,0
+14:10,1st half,"Prima Categoria Sicilia, Girone E",Sporting Casale,San Pietro Clarenza,0-0,0,0
+14:10,Started,"Prima Categoria Sicilia, Girone C",Polisportiva Torrenovese 1971,Lipari,0-0,0,0
+14:10,Started,"Prima Categoria Sicilia, Girone C",Nuova Peloro,Real Gescal,0-0,0,0
+14:10,Started,"Serie C Femminile, Girone A",Angelo Baiardo,Atletico Uri,0-0,0,0
+14:10,Started,"Serie C Femminile, Girone A",Sedriano,Pro Sesto,0-0,0,0
+14:10,Started,"Serie C Femminile, Girone A",Torres Calcio,Torino,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Arona Calcio,Union Novara,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Banchette Colleretto G. P.,Orizzonti Canavese Alicese,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Casale 1909,Ornavassese,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Dufour Varallo,Quincinetto Tavagnasco,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Gattinara F. C.,Gravellona San Pietro,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Juventus Domo,Ivrea Calcio,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Lupetti Bianchi Trino,Piedimulera,0-0,0,0
+14:10,Started,Promozione Piemonte - Girone A,Virtus Vercelli,Ce.Ver.Sa.Ma. Biella,0-0,0,0
+14:10,Started,"Promozione Abruzzo, Girone B",A.S.D. Union Fossacesia Calcio,A.S.D. Virtus Castel Frentano,0-0,0,0
+14:10,Started,Promozione Friuli-Venezia Giulia,A.S.D. A.C. Corva,A.S.D. Calcio Teor,0-0,0,0
+14:10,Started,Promozione Friuli-Venezia Giulia,A.S.D. Azzurra Premariacco,A.S.D. Bujese Calcio,0-0,0,0
+14:11,Started,Promozione Friuli-Venezia Giulia,A.S.D. Calcio Aviano,ASD Sistiana Sesljan,0-0,0,0
+14:11,Started,Promozione Friuli-Venezia Giulia,A.S.D. Centro Sedia Calcio Natisone,A.S.D. OL3,0-0,0,0
+14:11,Started,Promozione Friuli-Venezia Giulia,A.S.D. Pro Cervignano Ruda,ASD Calcio Maniago Vajont,0-0,0,0
+14:11,Started,Promozione Friuli-Venezia Giulia,A.S.D. Sevegliano - Fauglis,A.S.D. Deportivo Junior,0-0,0,0
+14:11,Started,Promozione Friuli-Venezia Giulia,A.S.D. Trieste Victory Academy,A.S.D. Fiumicello 2004,0-0,0,0
+14:11,Started,Promozione Friuli-Venezia Giulia,S.A.S. Casarsa,A.S.D. Corno Calcio 1929,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,A.C. Berton Bolzano Vicentino,A.S.D. Leodari Caldogno,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,A.S.D. San Pietro Rosà,A.S.D. Calcio Trissino,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,Longare Castegnero,Camisano Calcio 1910,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,S.S.D. A.R.L. Thiene 1908,A.S.D. Football Valbrenta,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,S.S.D. R.L. Montebello Calcio 1911,ACD Galliera,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,USC.D. Eurocalcio,A.S.D. Dueville Calcio,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,U.S.D. Malo 1908,A.S.D. Calcio Tezze,0-0,0,0
+14:11,Started,Promozione Veneto Girone B,Virtus Cornedo,A.S.D. San Giorgio In Bosco,0-0,0,0
+14:11,Started,Seconda Categoria Emilia-Romagna Girone O,2000,Dismano United,0-0,0,0
+14:11,Started,Seconda Categoria Emilia-Romagna Girone O,Alfero Calcio,Virtus San Mauro A mare,0-0,0,0
+14:11,Started,Seconda Categoria Emilia-Romagna Girone O,A.S.D Borghigiana,Torresavio,0-0,0,0
+14:11,Started,Seconda Categoria Emilia-Romagna Girone O,A.S.D Sarsinate 1966,Atletic Frampula,0-0,0,0
+14:11,Started,Seconda Categoria Emilia-Romagna Girone O,Junior calcio Cervia,San Carlo,0-0,0,0
+14:11,2nd half,Premier League,Muranga Seal,APS Bomet FC,2-1,0,0
+14:11,2nd half,Premier League,Muranga Seal,APS Bomet FC,2-1,0,0
+14:11,2nd half,National Super League,Kisumu All Stars FC,Mwatate United,0-0,0,0
+14:11,2nd half,National Super League,Kabati FC,Mombasa United FC,0-1,0,0
+14:12,2nd half,National Super League,Soy United FC,Migori Youth FC,0-0,0,0
+14:12,1st half,"FKF Nairobi East Regional League, Zone B",Kahawa Pride FC,Maaji FC,0-0,0,0
+14:12,1st half,"82 Sports Ultimate Cup, Playoff",Leads United FC,Tusker Youth FC,0-0,0,0
+14:12,2nd half,Premier League,Jwaaya FC,Al-Abbassieh FC,0-0,0,0
+14:12,2nd half,Premier League,Racing Beirut,Al-Ahed,0-2,0,0
+14:12,1st half,"National League, Women",Falconets FC,Earth Angels FC,0-0,0,0
+14:12,1st half,"National League, Women",World Girls FC,Shaita Angels FC,0-0,0,0
+14:12,1st half,"Premier League, Group 1",Assabah SC,Al Qadisiyah Bani Walid,0-0,0,0
+14:12,1st half,"Premier League, Group 1",Libyan Stadium,Al Madina Tripoli SC,0-0,0,0
+14:12,Halftime,"Premier League, Group 3",Al Sadaqa Shahat SC,Darnes Derna SC,0-0,0,0
+14:12,2nd half,Elite League,Chao Pak Kei,Universidade de Macau,6-0,0,0
+14:12,2nd half,Elite League,Cheng Fung,Benfica de Macau,1-3,0,0
+14:12,2nd half,Super League,Johor Darul Ta'zim,Immigration FC,4-0,0,0
+14:12,Halftime,Super League,Terengganu,Selangor Football Club,1-0,0,0
+14:12,2nd half,Liga A1,Wan Tendong Stable,Kedah Darul Aman FC,1-0,0,0
+14:12,Halftime,"Premier League, Closing Round",Valletta FC,Naxxar Lions FC,1-2,0,0
+14:12,Halftime,Challenge League,St. Lucia FC,Melita FC,1-0,0,0
+14:12,1st half,Challenge League,Zurrieq,Mgarr United FC,0-0,0,0
+14:12,Started,BOV Amateur League II,Dingli Swallows FC,Marsaskala FC,0-0,0,0
+14:12,Started,BOV Amateur League II,Santa Venera Lightnings FC,Ghaxaq FC,0-0,0,0
+14:12,2nd half,Gozo Football League First Division,Qala Saints F.C.,Nadur Youngsters F.C.,4-0,0,0
+14:12,Started,Ligue Régionale Rabat Salé Kénitra,RS Gharb,AAS Lalla Mimouna,0-0,0,0
+14:12,2nd half,Ligue 1 Ouest Maroc,AC Hilal Rabat,AS Takdoum Rabat,0-0,0,0
+14:12,2nd half,"Ligue Régionale De L'Ouest, Women",AS Afak Sports,AS Ittihad Bouknadel,0-0,0,0
+14:13,Halftime,Derde Divisie A,VV Hoogeveen,RKSV Rohda Raalte,0-1,0,0
+14:13,1st half,Derde Divisie B,VV UNA,VV Gemert,0-2,0,0
+14:13,Started,Vierde Divisie - Group C,OJC Rosmalen,SV Venray,0-0,0,0
+14:13,Started,1e Klasse G Oost,MVV '29 Harbrinkhoek,SV Bon Boys,0-0,0,0
+14:13,Started,2e Klasse A West 1 Zondag,VV Limmen,SV Assendelft,2-0,0,0
+14:13,Started,2e Klasse F Oost Zondag,SV Grol,VIOD Doetinchem,0-0,0,0
+14:13,Halftime,5e Klasse D Oost,Eendracht Arnhem,SV Basteom,0-3,0,0
+14:13,Halftime,Nasjonal U19 CL,Sandnes Ulf U19,Bryne FK U19,2-0,0,0
+14:13,1st half,Nasjonal U19 CL,Lillestrøm SK U19,Haugesund U19,2-2,0,0
+14:13,Started,Poland Friendly Games,KS Stara Błotnica,Proch Pionki,3-3,0,0
+14:13,1st half,Second Division,City Boys FC,Kamonyi FC,0-0,0,0
+14:13,Halftime,Second Division,Étoile de l'Est,Sunrise FC,0-0,0,0
+14:13,Halftime,"Champions League, Women",Inyemera Wfc,Muhazi United WFC,1-0,0,0
+14:13,1st half,"Champions League, Women",Kamonyi Wfc,Rwanda Police WFC,0-0,0,0
+14:13,2nd half,U21 Elite League,Al-Najmah U21,Neom U21,3-1,0,0
+14:13,Halftime,Scottish Women's Premier League 2,Boroughmuir Thistle FC,Queen's Park LFC,0-0,0,0
+14:13,Halftime,Scottish Women's Premier League 2,Spartans WFC,Gartcairn FC Women,1-0,0,0
+14:13,Started,Serbia Friendly Games,FK Radnički Valjevo,FK Radnički Novi Beograd,0-0,0,0
+14:13,1st half,Motsepe Foundation Championship,Black Leopards,Baroka FC,0-0,0,0
+14:13,1st half,Motsepe Foundation Championship,Highbury FC,Upington City FC,0-0,0,0
+14:13,1st half,Motsepe Foundation Championship,University of Pretoria FC,Kruger United,0-0,0,0
+14:13,Started,Premier League,Holy Family FC,Al-Hilal Wau,0-0,0,0
+14:13,2nd half,"Tercera Federación, Group 10",Castilleja CF,CD Pozoblanco,0-2,0,0
+14:14,2nd half,"Tercera Federación, Group 12",CD Atlético Paso,Tenisca,0-0,0,0
+14:14,2nd half,"Tercera Federación, Group 12",CD Unión Sur Yaiza,UD Tamaraceite,0-1,0,0
+14:14,2nd half,"Tercera Federación, Group 12",CD Mensajero,UD Lanzarote,1-0,0,0
+14:14,1st half,"Tercera Federación Femenina, Grupo 17",Cosmos Aragón,CD Valdefierro,0-0,0,0
+14:14,2nd half,Preferente Galicia - Grupo 1,Victoria CF,AD Miño,1-1,0,0
+14:14,Halftime,Challenge League,FC Wil 1900,Stade Nyonnais,0-0,0,0
+14:14,Halftime,Championship,Kiluvya FC,Geita Gold FC,0-1,0,0
+14:14,Halftime,Championship,Stand United FC,Songea United,0-0,0,0
+14:14,1st half,PBZ Premier League,KMKM,KVZ FC,0-0,0,0
+14:14,2nd half,Thai League 2,Phrae United,Mahasarakham SBT,0-6,0,0
+14:14,Halftime,Ligue 1,Avenir Sportif De Gabes,Etoile Sportive Du Sahel,0-0,0,0
+14:14,Halftime,Ligue 1,ES Métlaoui,Stade Tunisien,0-0,0,0
+14:14,Halftime,Ligue 1,JS Omrane,CS Sfaxien,0-0,0,0
+14:14,1st half,Ligue 1,US Monastir,Avenir Sportif De La Marsa,0-0,0,0
+14:14,Halftime,"Ligue 2, Group A",El Makarem de Mahdia,Sporting Club Ben Arous,0-0,0,0
+14:14,Halftime,"Ligue 2, Group A",ES Hammam-Sousse,CS Chebba,2-1,0,0
+14:14,Halftime,"Ligue 2, Group A",Hammam-Lif,BS Bouhajla,0-0,0,0
+14:14,Halftime,"Ligue 2, Group A",Oceano Club De Kerkennah,Union Sportive De Bousalem,1-0,0,0
+14:14,Halftime,"Ligue 2, Group A",Stade Africain de Menzel Bourguiba,CS de Msaken,1-1,0,0
+14:14,Halftime,"Ligue 2, Group A",US Tataouine,Sfax Railways,0-1,0,0
+14:14,Halftime,"Ligue 2, Group B",CS Korba,CS Redeyef,0-0,0,0
+14:14,1st half,"Tunisian Amateur League - Level 1, Group 1",CF Manzel Temime,US Djaida,0-0,0,0
+14:14,1st half,"Tunisian Amateur League - Level 1, Group 1",ES Rades,ES Beni Khalled,0-0,0,0
+14:14,1st half,"Tunisian Amateur League - Level 1, Group 1",ES Tazarka,Js Manouba,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 1",FS Ras Jebel,AS Manzel Jemil,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 1",Grombalia Sports,VS Menzel Abderrahmane,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 3",Ahly Sfaxi,HS Kalaa Kebira,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 3",MS Souassi,CS Djebeniana,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 3",Stade Soussi,AS Menzel Ennour,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 4",Mareth Sport,AS Guettar,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 4",OS Kebili,ES Djerba,0-0,0,0
+14:15,1st half,"Tunisian Amateur League - Level 1, Group 4",US Ajim Djerba,AS Degache,0-0,0,0
+14:15,2nd half,"TFF 2. Lig, Beyaz Grup",24 Erzincanspor,Karacabey Belediye Spor,0-0,0,0
+14:15,2nd half,"TFF 2. Lig, Beyaz Grup",Elazığspor,Altınordu,2-0,0,0
+14:15,2nd half,"TFF 2. Lig, Beyaz Grup",İnegölspor,Kastamonuspor,2-2,0,0
+14:15,2nd half,"TFF 2. Lig, Kirmizi Grup",Menemen FK,Kırklarelispor,0-0,0,0
+14:15,2nd half,"TFF 2. Lig, Kirmizi Grup",Somaspor,Muş 1984 Muşspor,1-2,0,0
+14:15,2nd half,"Nesine 3. Lig, Grup 1",Beykoz İshaklı SF,Silivrispor,0-1,0,0
+14:15,2nd half,"Nesine 3. Lig, Grup 1",Çorluspor 1947,Polatlı 1926 SK,4-0,0,0
+14:15,2nd half,"Nesine 3. Lig, Grup 1",İnkılap FSK,Bursa Nilüfer FK,1-1,0,0
+14:15,2nd half,"Nesine 3. Lig, Grup 4",Ayvalıkgücü Belediyespor,Afyonspor,4-1,0,0
+14:15,2nd half,"Nesine 3. Lig, Grup 4",Karşıyaka,Alanya 1221 FK,3-1,0,0
+14:15,2nd half,"Nesine 3. Lig, Grup 4",Kütahyaspor Futbol SK,Balıkesirspor,2-1,0,0
+14:15,2nd half,U19 PAF Ligi,Galatasaray U19,Kayserispor U19,1-0,0,0
+14:15,Started,İstanbul Süper Amatör Ligi - Group 1,Bahçelievler SK,Çanakçaspor,4-0,0,0
+14:15,Started,İstanbul Süper Amatör Ligi - Group 1,Kağıthanespor,Cevizli Anadolu SK,1-0,0,0
+14:15,Started,İstanbul Süper Amatör Ligi - Group 1,Merkezefendispor,Girne Gençlikspor,1-3,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 1,Yıldırımbosna SK,Balkan Yeşilbağlarspor,1-1,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 3,Anadolu Üsküdarspor,Florya As Spor,3-1,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 3,İstanbul Bafra,İstanbul Yeniköyspor,0-2,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 3,Kuzguncukspor,Yeniyüzyıl Gençlikspor,1-4,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 3,Selimpaşaspor,Beylikdüzü Kuzeyin Kaplanları SK,2-0,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 3,Sultangazispor,İzzetpaşa SK,0-0,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 5,Nart Spor Kulübü,Reşitpaşa SK,0-1,0,0
+14:16,Started,İstanbul Süper Amatör Ligi - Group 5,Tuzla 1954 Spor,Zeytinburnu Irmakspor,0-0,0,0
+14:16,Started,Kocaeli Süper Amatör Lig - Grup A,Çayırovaspor,Başiskele Belediyespor,0-0,0,0
+14:16,Started,Ankara Süper Amatör Ligi,Başkent Fatihspor,Çubuk 1959 SK,1-1,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 1,Bursa Bağlarbaşıspor,Çalıspor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 1,Bursa Karıncalıgücü,Nilüfer Kızılcıklıspor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 1,Odunlukspor,Burgazspor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 1,Çotanakspor,Livanespor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 2,Bursa Tütünspor,Yıldırım Erikli Gençlikspor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 2,İnegöl Cerrah Gençlikspor,Panayır Güneşspor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 2,Tirilye SK,Görükle İpekspor,0-0,0,0
+14:16,Started,Bursa Süper Amatör Ligi - Group 2,Yenişehir Belediyespor,Bursa 1326 FK,0-0,0,0
+14:16,Started, Trabzon 1. Amatör Ligi - Group 1,Altın Ayaklar SK,Kaymaklıgücü,0-0,0,0
+14:16,Started, Trabzon 1. Amatör Ligi - Group 1,Trabzon Ortahisar Kanuni FK,Çaykaraspor,0-0,0,0
+14:16,Started,"Sakarya Süper Amatör Ligi, Group B",Kazımpaşa BSK,Alaağaçspor,0-0,0,0
+14:16,Started,Mersin Süper Amatör Ligi - Group B,Kuvayi Milliye SK,Mersin Galataspor,0-0,0,0
+14:16,Started,Sivas 1. Amatör Ligi - Group C,Sivas Demirspor,Zaraspor FK,0-0,0,0
+14:16,Started,Kayseri Süper Amatör Ligi - Group A,Amaratspor,Argıncıkspor,0-0,0,0
+14:17,Started,Kayseri Süper Amatör Ligi - Group A,Özvatan Gençlik,Kayseri Atletik SK,0-0,0,0
+14:17,Started,Denizli Süper Amatör Ligi - Group 2,Akhan Vefaspor,Denizli Şemiklerspor,0-0,0,0
+14:17,Started,"Balıkesir Süper Amatör Ligi, Group A",Susurlukspor,Kepsut Belediyespor,0-0,0,0
+14:17,Started,"Balıkesir Süper Amatör Ligi, Group A",Balıkesir Yıldızspor,Gömeç Belediyespor,0-0,0,0
+14:17,Started,"Adana Süper Amatör Ligi, Group A",Adana Kiremithanespor,Ceyhangücü,0-0,0,0
+14:17,Started,"Adana Süper Amatör Ligi, Group B",Kozan İmarspor,Ceyhan Doğanspor,0-0,0,0
+14:17,Started,"Adana Süper Amatör Ligi, Group B",Baklalıspor,Yüreğirgücü,0-0,0,0
+14:17,Started,Bartın 1. Amatör Ligi,Arıt Kayadibispor,Bartın Gençlik,0-0,0,0
+14:17,Started,"Elazığ 1. Amatör Ligi, Group B",Elazığ Şekerspor,Elazığ DSİ Spor,0-0,0,0
+14:17,Started,"Elazığ 1. Amatör Ligi, Group B",Yurtbaşı Belediyesi 23 Spor,Elazığ 2023 SK,0-0,0,0
+14:17,Started,Tokat 1. Amatör Ligi,Topçamspor,Niksar Belediyespor,0-0,0,0
+14:17,Started," Batman 1. Amatör Ligi, Group B",İluh 72 Spor,Batman Vefaspor,0-0,0,0
+14:17,Started," Batman 1. Amatör Ligi, Group B",Tilmerçspor,Batman Yeşiltepespor,0-0,0,0
+14:17,Started," Batman 1. Amatör Ligi, Group C",Binatlı Güvenspor,Bıçakcı Köyü SK,0-0,0,0
+14:17,Started,"Bolu 1. Amatör Ligi, Group A",Aladağspor,Göynük İdman Yurdu,0-0,0,0
+14:17,Started,"Bolu 1. Amatör Ligi, Group A",Karacasu 2011,Soysal Spor Kulübü,0-0,0,0
+14:17,Started,"Bolu 1. Amatör Ligi, Group B",Özel İdare Köroğlu SK,Sebenspor,0-0,0,0
+14:17,Started,Konya Süper Amatör Ligi - Group 1,Konya Karakartallarspor,Havzanspor,0-0,0,0
+14:17,Started,"Muğla Süper Amatör Ligi, Playoffs",Turgutreis SK,Kıyıkışlacıkspor,1-1,0,0
+14:17,Started,Çanakkale Süper Amatör Ligi,Çanakkale Ayvacık Belediyespor,Kepez Hamidiyespor,0-0,0,0
+14:17,Started,"Kütahya Süper Amatör Ligi, Group A",Naşaspor,Kütahya Uluköy SK,0-0,0,0
+14:17,Started,"Kütahya Süper Amatör Ligi, Group A",Balkan Termikspor,1867 Simavspor,0-0,0,0
+14:17,Started,Düzce Süper Amatör Ligi,Düzce 1905 Spor,Aziziyespor,0-0,0,0
+14:17,Started,Kırklareli Süper Amatör Ligi,Çakıllıspor,Vizespor,1-0,0,0
+14:18,Started,Kırklareli Süper Amatör Ligi,Karahıdırspor,Üsküpspor,2-5,0,0
+14:18,Started,Zonguldak Süper Amatör Ligi,Velioğlu Gelişimspor,Kayıkçılar Gençlerbirliği,1-0,0,0
+14:18,Started,UAE 3rd Division,United Sport FC,Emerald SC,0-0,0,0
+14:18,1st half,Presidents Cup,Shabab Al-Ahli Dubai,Khor Fakkan,0-0,0,0
+14:18,2nd half,V-League 1,Công An Hà Nội,Ninh Bình FC,3-2,0,0
+14:18,1st half,Super League,Green Buffaloes,Red Arrows,0-0,0,0
+14:18,Halftime,Super League,Mutondo Stars,NAPSA Stars,0-0,0,0
