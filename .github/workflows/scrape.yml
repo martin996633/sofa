@@ -1,8 +1,8 @@
-name: SofaScraper to CSV
+name: SofaScraper LIVE
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # Každých 20 minut
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,33 +11,23 @@ permissions:
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Stáhnout kód repozitáře
+      - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Nastavit Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
-      - name: Nainstalovat knihovny
+      - name: Install
         run: pip install -r requirements.txt
-
-      - name: Spustit skript
+      - name: Run
         run: python main.py
-
-      - name: Commit a Push (jen pokud jsou data)
+      - name: Commit
         run: |
           git config --global user.name "SofaBot"
           git config --global user.email "sofabot@users.noreply.github.com"
-          
-          # Podmínka: Existuje soubor results.csv?
-          if [ -f results.csv ]; then
-            git add results.csv
-            git commit -m "Aktualizace výsledků: $(date)" || exit 0
+          if [ -f live_results.csv ]; then
+            git add live_results.csv
+            git commit -m "Live update" || exit 0
             git push
-            echo "✅ Data úspěšně odeslána na GitHub."
-          else
-            echo "⚠️ Soubor results.csv nebyl vytvořen (žádná data ke stažení)."
           fi
