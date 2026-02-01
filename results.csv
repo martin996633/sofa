@@ -1,0 +1,575 @@
+Čas,Liga,Stav,Domácí,Hosté,Skóre,xG Dom,xG Hos,Střely D,Střely H,Sance D,Sance H
+15:00,Premier League,Ended,Brighton & Hove Albion,Everton,1-1,1.44,1.20,11,7,2,2
+15:00,Premier League,Ended,Leeds United,Arsenal,0-4,0.15,2.19,3,14,0,6
+15:00,Premier League,Ended,Wolverhampton,Bournemouth,0-2,1.38,1.36,17,9,4,2
+17:30,Premier League,Ended,Chelsea,West Ham United,3-2,2.70,1.12,14,11,4,2
+20:00,Premier League,Ended,Liverpool,Newcastle United,4-1,2.28,0.36,17,8,7,0
+14:00,Premier League,Not started,Aston Villa,Brentford,0-0,0,0,0,0,0,0
+14:00,Premier League,Not started,Manchester United,Fulham,0-0,0,0,0,0,0,0
+14:00,Premier League,Not started,Nottingham Forest,Crystal Palace,0-0,0,0,0,0,0,0
+16:30,Premier League,Not started,Tottenham Hotspur,Manchester City,0-0,0,0,0,0,0,0
+14:00,Serie A,Ended,Pisa,Sassuolo,1-3,1.06,2.26,15,21,3,3
+17:00,Serie A,Ended,Napoli,Fiorentina,2-1,1.73,1.23,19,15,2,4
+19:45,Serie A,Ended,Cagliari,Hellas Verona,4-0,1.74,0.46,13,9,4,0
+11:30,Serie A,Not started,Torino,Lecce,0-0,0,0,0,0,0,0
+14:00,Serie A,Postponed,Bologna,Milan,0-0,0,0,0,0,0,0
+14:00,Serie A,Not started,Como,Atalanta,0-0,0,0,0,0,0,0
+17:00,Serie A,Not started,Cremonese,Inter,0-0,0,0,0,0,0,0
+19:45,Serie A,Not started,Parma,Juventus,0-0,0,0,0,0,0,0
+13:00,LaLiga,Ended,Real Oviedo,Girona FC,1-0,1.40,0.65,8,9,1,2
+15:15,LaLiga,Ended,Osasuna,Villarreal,2-2,1.37,0.92,15,5,4,1
+17:30,LaLiga,Ended,Levante UD,Atlético Madrid,0-0,0.37,0.86,10,10,0,0
+20:00,LaLiga,Ended,Elche,Barcelona,1-3,1.00,6.44,9,30,1,13
+13:00,LaLiga,Not started,Real Madrid,Rayo Vallecano,0-0,0,0,0,0,0,0
+15:15,LaLiga,Not started,Real Betis,Valencia,0-0,0,0,0,0,0,0
+17:30,LaLiga,Not started,Getafe,Celta Vigo,0-0,0,0,0,0,0,0
+20:00,LaLiga,Not started,Athletic Club,Real Sociedad,0-0,0,0,0,0,0,0
+14:30,Bundesliga,Ended,Eintracht Frankfurt,Bayer 04 Leverkusen,1-3,1.10,1.15,11,11,3,3
+14:30,Bundesliga,Ended,FC Augsburg,FC St. Pauli,2-1,1.13,2.46,12,17,5,5
+14:30,Bundesliga,Ended,RB Leipzig,1. FSV Mainz 05,1-2,1.74,2.33,15,11,3,4
+14:30,Bundesliga,Ended,SV Werder Bremen,Borussia M'gladbach,1-1,1.24,0.89,18,7,0,2
+14:30,Bundesliga,Ended,TSG Hoffenheim,1. FC Union Berlin,3-1,1.37,1.84,9,16,2,2
+17:30,Bundesliga,Ended,Hamburger SV,FC Bayern München,2-2,2.25,2.41,14,13,5,5
+14:30,Bundesliga,Not started,VfB Stuttgart,SC Freiburg,0-0,0,0,0,0,0,0
+16:30,Bundesliga,Not started,Borussia Dortmund,1. FC Heidenheim,0-0,0,0,0,0,0,0
+16:00,Ligue 1,Ended,Paris FC,Olympique de Marseille,2-2,1.53,2.63,9,18,3,3
+18:00,Ligue 1,Ended,Lorient,Nantes,2-1,0.52,1.42,5,10,1,2
+20:05,Ligue 1,Ended,AS Monaco,Stade Rennais,4-0,2.21,0.38,14,8,4,1
+14:00,Ligue 1,Not started,Olympique Lyonnais,Lille,0-0,0,0,0,0,0,0
+16:15,Ligue 1,Not started,Angers,Metz,0-0,0,0,0,0,0,0
+16:15,Ligue 1,Not started,Nice,Stade Brestois,0-0,0,0,0,0,0,0
+16:15,Ligue 1,Not started,Toulouse,Auxerre,0-0,0,0,0,0,0,0
+19:45,Ligue 1,Not started,RC Strasbourg,Paris Saint-Germain,0-0,0,0,0,0,0,0
+15:30,Liga Portugal Betclic,Ended,Santa Clara,Estoril Praia,2-4,2.20,2.32,14,11,4,3
+18:00,Liga Portugal Betclic,Ended,Rio Ave,FC Arouca,0-3,0.69,1.47,8,18,0,3
+20:30,Liga Portugal Betclic,Ended,FC Alverca,CF Estrela Amadora,1-1,0.89,0.88,8,5,2,1
+15:30,Liga Portugal Betclic,Not started,Gil Vicente,Famalicão,0-0,0,0,0,0,0,0
+18:00,Liga Portugal Betclic,Not started,Sporting CP,CD Nacional,0-0,0,0,0,0,0,0
+20:30,Liga Portugal Betclic,Not started,Tondela,Benfica,0-0,0,0,0,0,0,0
+15:30,VriendenLoterij Eredivisie,Ended,AZ Alkmaar,NEC Nijmegen,1-3,1.39,1.36,11,19,3,2
+17:45,VriendenLoterij Eredivisie,Ended,PEC Zwolle,SC Telstar,4-1,2.85,1.75,16,14,6,4
+20:00,VriendenLoterij Eredivisie,Ended,Sparta Rotterdam,FC Groningen,2-0,1.19,0.28,8,8,3,0
+11:15,VriendenLoterij Eredivisie,Not started,Excelsior,AFC Ajax,0-0,0,0,0,0,0,0
+13:30,VriendenLoterij Eredivisie,Not started,Heracles Almelo,Fortuna Sittard,0-0,0,0,0,0,0,0
+13:30,VriendenLoterij Eredivisie,Not started,PSV Eindhoven,Feyenoord,0-0,0,0,0,0,0,0
+15:45,VriendenLoterij Eredivisie,Not started,SC Heerenveen,FC Utrecht,0-0,0,0,0,0,0,0
+19:00,VriendenLoterij Eredivisie,Not started,FC Volendam,Go Ahead Eagles,0-0,0,0,0,0,0,0
+11:30,Trendyol Süper Lig,Ended,Alanyaspor,Eyüpspor,1-3,1.54,1.13,17,13,4,2
+14:00,Trendyol Süper Lig,Ended,Başakşehir FK,Çaykur Rizespor,2-2,1.36,0.47,10,13,1,0
+17:00,Trendyol Süper Lig,Ended,Beşiktaş JK,Konyaspor,2-1,2.00,1.01,22,9,1,3
+17:00,Trendyol Süper Lig,Ended,Göztepe,Fatih Karagümrük,2-1,0.85,1.14,19,8,0,3
+14:00,Trendyol Süper Lig,Not started,Gençlerbirliği,Gaziantep FK,0-0,0,0,0,0,0,0
+17:00,Trendyol Süper Lig,Not started,Galatasaray,Kayserispor,0-0,0,0,0,0,0,0
+15:00,Pro League,Ended,Cercle Brugge,Royal Antwerp FC,0-4,0.08,3.97,3,15,0,4
+17:15,Pro League,Ended,SV Zulte Waregem,KVC Westerlo,0-1,1.23,1.66,19,7,2,2
+19:45,Pro League,Ended,Sint-Truidense VV,RC Sporting Charleroi,0-2,1.14,0.82,13,15,1,1
+12:30,Pro League,Not started,Standard Liège,RSC Anderlecht,0-0,0,0,0,0,0,0
+15:00,Pro League,Not started,FCV Dender,KRC Genk,0-0,0,0,0,0,0,0
+17:30,Pro League,Not started,Royale Union Saint-Gilloise,Club Brugge KV,0-0,0,0,0,0,0,0
+18:15,Pro League,Not started,Oud-Heverlee Leuven,KV Mechelen,0-0,0,0,0,0,0,0
+15:00,Stoiximan Super League,Ended,GFS Panetolikos,Aris Thessaloniki,0-1,0,0,1,22,0,7
+16:00,Stoiximan Super League,Ended,APS Atromitos Athinon,OFI Crete,1-2,0,0,15,6,1,3
+18:00,Stoiximan Super League,Ended,NPS Volos,AEL Novibet,0-2,0,0,12,18,1,7
+14:00,Stoiximan Super League,Not started,APO Levadiakos,Asteras Aktor,0-0,0,0,0,0,0,0
+15:30,Stoiximan Super League,Not started,Panathinaikos FC,AE Kifisia,0-0,0,0,0,0,0,0
+17:30,Stoiximan Super League,Not started,PAOK,MGS Panserraikos,0-0,0,0,0,0,0,0
+19:00,Stoiximan Super League,Not started,AEK Athens,Olympiacos FC,0-0,0,0,0,0,0,0
+15:00,Scottish Premiership,Ended,Kilmarnock,Aberdeen,3-0,3.64,1.79,19,8,3,3
+15:00,Scottish Premiership,Ended,Livingston,Motherwell,0-2,0.20,1.46,4,14,2,4
+15:00,Scottish Premiership,Ended,St. Mirren,Dundee FC,0-0,0.47,0.94,10,11,1,1
+20:00,Scottish Premiership,Ended,Dundee United,Heart of Midlothian,0-3,0.16,4.17,3,22,1,10
+14:00,Scottish Premiership,Not started,Hibernian,Rangers,0-0,0,0,0,0,0,0
+15:00,Scottish Premiership,Not started,Celtic,Falkirk FC,0-0,0,0,0,0,0,0
+22:00,"Liga MX, Clausura",Ended,Club América,Club Necaxa,2-0,1.76,0.19,15,6,4,0
+23:00,"Liga MX, Clausura",Ended,Atlas FC,Mazatlán FC,1-0,0,0,16,10,3,0
+23:00,"Liga MX, Clausura",Ended,Atlético San Luis,CD Guadalajara,2-3,0,0,8,14,2,3
+01:00,"Liga MX, Clausura",Ended,CF Monterrey,Club Tijuana,2-2,0,0,21,16,1,3
+01:10,"Liga MX, Clausura",Ended,Club León,Tigres UANL,1-2,0,0,14,16,3,2
+23:00,"Liga MX, Clausura",Not started,Querétaro FC,CF Pachuca,0-0,0,0,0,0,0,0
+14:00,HNL,Ended,HNK Gorica,HNK Hajduk Split,1-0,0.74,1.98,6,21,2,2
+16:45,HNL,Ended,NK Slaven Belupo,NK Varaždin,0-2,2.67,2.01,25,8,1,3
+14:00,HNL,Not started,NK Osijek,HNK Rijeka,0-0,0,0,0,0,0,0
+12:00,Mozzart Bet Superliga,Ended,FK Napredak Kruševac,FK Javor Ivanjica,1-2,0.52,1.67,7,13,1,2
+12:00,Mozzart Bet Superliga,Ended,FK Radnički 1923,FK IMT Beograd,3-1,0.98,0.54,8,9,2,1
+14:00,Mozzart Bet Superliga,Ended,FK Partizan,FK Radnički Niš,0-0,1.84,0.41,24,5,1,0
+16:00,Mozzart Bet Superliga,Ended,FK Železničar Pančevo,FK Radnik Surdulica,1-0,0.87,0.96,8,8,1,1
+12:00,Mozzart Bet Superliga,Not started,FK Mladost Lučani,OFK Beograd Mozzart,0-0,0,0,0,0,0,0
+13:30,Mozzart Bet Superliga,Not started,FK Novi Pazar,FK Spartak Subotica,0-0,0,0,0,0,0,0
+14:00,Mozzart Bet Superliga,Not started,FK Čukarički,FK Crvena zvezda,0-0,0,0,0,0,0,0
+14:00,Mozzart Bet Superliga,Not started,FK TSC Bačka Topola,FK Vojvodina,0-0,0,0,0,0,0,0
+16:00,"CAF Champions League, Group A",Not started,Pyramids FC,RS Berkane,0-0,0,0,0,0,0,0
+16:00,"CAF Champions League, Group A",Not started,Rivers United,Power Dynamos,0-0,0,0,0,0,0,0
+13:00,"CAF Champions League, Group B",Ended,Young Africans Sport Club,Al Ahly FC,1-1,0,0,11,4,2,1
+19:00,"CAF Champions League, Group B",Ended,AS FAR Rabat,JS Kabylie,1-0,0,0,15,6,1,0
+19:00,"CAF Champions League, Group C",Not started,MC Alger,FC Saint-Éloi Lupopo,0-0,0,0,0,0,0,0
+16:00,"CAF Champions League, Group D",Ended,Atlético Petróleos de Luanda,Stade Malien,0-0,0,0,12,4,2,0
+13:00,"CAF Champions League, Group D",Not started,Simba SC,Espérance Tunis,0-0,0,0,0,0,0,0
+12:30,Championship,Ended,Leicester City,Charlton Athletic,0-2,1.92,1.40,21,9,1,2
+12:30,Championship,Ended,Sheffield Wednesday,Wrexham,0-1,0.45,1.76,5,12,1,2
+12:30,Championship,Ended,Stoke City,Southampton,0-2,0.87,1.90,10,11,1,2
+15:00,Championship,Ended,Blackburn Rovers,Hull City,0-1,0.50,1.54,9,12,1,3
+15:00,Championship,Ended,Ipswich Town,Preston North End,1-1,2.79,1.19,16,11,6,2
+15:00,Championship,Ended,Middlesbrough,Norwich City,1-0,0.50,0.53,9,8,1,1
+15:00,Championship,Ended,Millwall,Sheffield United,1-1,1.44,1.22,14,12,2,3
+15:00,Championship,Ended,Oxford United,Birmingham City,0-2,0.47,1.14,10,11,1,2
+15:00,Championship,Ended,Portsmouth,West Bromwich Albion,3-0,2.57,0.09,20,4,2,0
+15:00,Championship,Ended,Queens Park Rangers,Coventry City,2-1,1.13,0.59,15,9,2,1
+15:00,Championship,Ended,Watford,Swansea City,0-2,0.91,2.64,17,14,1,2
+15:15,LaLiga 2,Ended,Albacete Balompié,Real Zaragoza,2-0,1.11,0.95,10,8,3,1
+15:15,LaLiga 2,Ended,Burgos Club de Fútbol,Leganés,2-1,0,0,8,11,1,0
+17:30,LaLiga 2,Ended,Cultural Leonesa,Deportivo La Coruña,0-1,0,0,13,16,0,4
+20:00,LaLiga 2,Ended,Córdoba,Real Valladolid,3-1,0,0,19,9,2,2
+13:00,LaLiga 2,Not started,Almería,AD Ceuta,0-0,0,0,0,0,0,0
+15:15,LaLiga 2,Not started,Eibar,Sporting Gijón,0-0,0,0,0,0,0,0
+17:30,LaLiga 2,Not started,CD Castellón,FC Andorra,0-0,0,0,0,0,0,0
+17:30,LaLiga 2,Not started,Huesca,Cádiz,0-0,0,0,0,0,0,0
+20:00,LaLiga 2,Not started,Granada,Real Racing Club,0-0,0,0,0,0,0,0
+12:00,2. Bundesliga,Ended,Eintracht Braunschweig,Karlsruher SC,1-0,1.10,0.69,14,9,2,1
+12:00,2. Bundesliga,Ended,Holstein Kiel,SpVgg Greuther Fürth,1-2,0.72,1.24,13,5,2,2
+12:00,2. Bundesliga,Ended,VfL Bochum 1848,FC Schalke 04,2-0,0.90,0.70,10,12,2,0
+19:30,2. Bundesliga,Ended,1. FC Kaiserslautern,SV 07 Elversberg,1-3,0.42,2.98,5,18,1,5
+12:30,2. Bundesliga,Not started,Fortuna Düsseldorf,SC Paderborn 07,0-0,0,0,0,0,0,0
+12:30,2. Bundesliga,Not started,Hertha BSC,Darmstadt 98,0-0,0,0,0,0,0,0
+12:30,2. Bundesliga,Not started,SG Dynamo Dresden,Arminia Bielefeld,0-0,0,0,0,0,0,0
+19:00,Paulista Série A1,Ended,Guarani,Ponte Preta,1-0,1.00,0.92,11,17,1,0
+23:30,Paulista Série A1,Ended,EC Primavera,Portuguesa,1-2,0.78,1.27,15,17,1,1
+23:30,Paulista Série A1,Ended,São Paulo,Santos,2-0,1.78,0.44,19,8,3,0
+19:00,Paulista Série A1,Postponed,Corinthians,Capivariano,0-0,0,0,0,0,0,0
+21:15,Paulista Série A1,Not started,Red Bull Bragantino,São Bernardo,0-0,0,0,0,0,0,0
+21:30,Paulista Série A1,Not started,Mirassol,Grêmio Novorizontino,0-0,0,0,0,0,0,0
+22:30,Paulista Série A1,Not started,EC Noroeste,AE Velo Clube,0-0,0,0,0,0,0,0
+23:30,Paulista Série A1,Not started,Botafogo-SP,Palmeiras,0-0,0,0,0,0,0,0
+14:00,Serie B,Ended,Empoli,Modena,0-0,0.99,0.93,9,13,1,2
+14:00,Serie B,Ended,Südtirol,Catanzaro,2-1,0,0,8,21,1,2
+14:00,Serie B,Ended,US Avellino 1912,Cesena,3-1,1.61,2.40,11,11,4,2
+14:00,Serie B,Ended,Venezia,Carrarese,2-1,3.91,0.87,17,7,3,1
+14:00,Serie B,Ended,Virtus Entella,Frosinone,1-1,2.26,1.61,16,11,2,0
+16:15,Serie B,Ended,Pescara,Mantova,2-2,0,0,12,14,1,3
+18:30,Serie B,Ended,Sampdoria,Spezia,1-0,0.65,1.49,10,11,1,2
+14:00,Serie B,Not started,Reggiana,Juve Stabia,0-0,0,0,0,0,0,0
+16:15,Serie B,Not started,Padova,Monza,0-0,0,0,0,0,0,0
+13:00,Ligue 2,Ended,Troyes,Le Mans,0-2,0,0,12,5,0,3
+13:00,Ligue 2,Ended,USL Dunkerque,Annecy FC,0-1,0,0,8,8,1,2
+19:00,Ligue 2,Ended,Saint-Étienne,US Boulogne Côte-d'Opale,0-1,0,0,4,18,0,2
+15:30,Eerste Divisie,Ended,Helmond Sport,De Graafschap,0-0,0,0,11,12,1,1
+10:30,1. Lig,Ended,Erzurumspor FK,Sarıyer,4-0,0,0,13,6,1,1
+10:30,1. Lig,Ended,Iğdır FK,Manisa FK,0-0,0,0,21,1,2,1
+13:00,1. Lig,Ended,Çorum FK,Keçiörengücü,1-0,0,0,9,7,1,1
+16:00,1. Lig,Ended,Bodrum FK,Serikspor A.Ş.,3-0,0,0,10,6,1,0
+10:30,1. Lig,1st half,Bandırmaspor,Vanspor FK,1-0,0,0,10,4,2,1
+10:30,1. Lig,1st half,Sivasspor,Pendikspor,0-0,0,0,7,6,0,0
+13:00,1. Lig,Not started,Boluspor,Sakaryaspor,0-0,0,0,0,0,0,0
+16:00,1. Lig,Not started,Amed Sportif Faaliyetler,Adana Demirspor,0-0,0,0,0,0,0,0
+10:45,A-League Men,Ended,Perth Glory,Auckland FC,2-1,2.16,0.50,14,14,2,1
+06:00,A-League Men,Ended,Central Coast Mariners,Melbourne Victory,1-0,0,0,7,27,1,3
+13:00,Premier League,Ended,Hapoel Tel Aviv,Maccabi Netanya,2-0,0,0,18,6,3,1
+15:30,Premier League,Ended,Maccabi Bney Reine,Hapoel Be'er Sheva,0-2,0,0,8,24,0,9
+16:30,Premier League,Ended,Bnei Sakhnin,Hapoel Jerusalem,0-0,0,0,7,14,1,2
+17:00,Premier League,Postponed,Hapoel Ironi Kiryat Shmona,Maccabi Tel Aviv,0-0,0,0,0,0,0,0
+17:15,Premier League,Ended,Beitar Jerusalem,Hapoel Haifa,2-2,0,0,21,8,1,1
+17:30,Premier League,Ended,Maccabi Haifa,Ironi Dorot Tiberias,3-2,0,0,18,7,5,2
+18:00,Premier League,Not started,Hapoel Petach Tikva,Ashdod SC,0-0,0,0,0,0,0,0
+15:00,Liga de Primera,Ended,Deportes Limache,Colo Colo,3-1,0,0,9,18,3,3
+18:30,Liga de Primera,Ended,Universidad de Concepción,Coquimbo Unido,1-0,1.00,0.72,13,8,2,1
+21:00,Liga de Primera,Ended,Cobresal,Huachipato,1-0,1.31,0.40,18,13,1,1
+21:00,Liga de Primera,Not started,Deportes La Serena,Universidad Católica,0-0,0,0,0,0,0,0
+23:30,Liga de Primera,Not started,Palestino,Ñublense,0-0,0,0,0,0,0,0
+21:00,"Liga DIMAYOR, Apertura",Ended,Cúcuta Deportivo,Fortaleza FC,1-1,0,0,3,22,1,1
+23:10,"Liga DIMAYOR, Apertura",Ended,Boyacá Chicó FC,Independiente Santa Fe,0-1,0,0,7,17,0,1
+19:00,"Liga DIMAYOR, Apertura",Not started,Atlético Bucaramanga,Alianza Valledupar FC,0-0,0,0,0,0,0,0
+21:10,"Liga DIMAYOR, Apertura",Not started,Deportivo Cali,Deportivo Pasto,0-0,0,0,0,0,0,0
+23:10,"Liga DIMAYOR, Apertura",Not started,Once Caldas,Jaguares de Córdoba,0-0,0,0,0,0,0,0
+01:10,"Liga DIMAYOR, Apertura",Not started,Millonarios,Independiente Medellín,0-0,0,0,0,0,0,0
+01:30,"Liga DIMAYOR, Apertura",Not started,Llaneros FC,Rionegro Águilas Doradas,0-0,0,0,0,0,0,0
+14:00,Czech First League,Ended,FK Jablonec,FK Teplice,1-0,1.43,0.49,12,12,3,1
+14:00,Czech First League,Ended,Mladá Boleslav,Bohemians Praha 1905,2-2,2.37,2.02,14,11,1,2
+14:00,Czech First League,Ended,SK Sigma Olomouc,FC Hradec Králové,1-0,1.13,0.86,16,5,1,0
+17:00,Czech First League,Ended,Dukla Praha,AC Sparta Praha,0-3,0.20,3.05,5,16,0,3
+12:00,Czech First League,Not started,1. FC Slovácko,Baník Ostrava,0-0,0,0,0,0,0,0
+14:30,Czech First League,Not started,FC Slovan Liberec,FC Zlín,0-0,0,0,0,0,0,0
+14:30,Czech First League,Not started,MFK Karviná,Viktoria Plzeň,0-0,0,0,0,0,0,0
+17:30,Czech First League,Not started,FK Pardubice,SK Slavia Praha,0-0,0,0,0,0,0,0
+13:45,Ekstraklasa,Ended,Górnik Zabrze,Piast Gliwice,2-1,1.75,0.77,17,9,3,1
+16:30,Ekstraklasa,Ended,Widzew Łódź,Jagiellonia Białystok,1-3,1.78,1.22,16,5,2,1
+19:15,Ekstraklasa,Ended,Lech Poznań,KS Lechia Gdańsk,1-3,2.71,1.27,28,12,2,1
+11:15,Ekstraklasa,Not started,Motor Lublin,Pogoń Szczecin,0-0,0,0,0,0,0,0
+13:45,Ekstraklasa,Not started,Wisła Płock,Raków Częstochowa,0-0,0,0,0,0,0,0
+16:30,Ekstraklasa,Not started,Legia Warszawa,MKS Korona Kielce,0-0,0,0,0,0,0,0
+12:30,League One,Ended,AFC Wimbledon,Bolton Wanderers,0-1,1.60,1.15,15,16,1,1
+12:30,League One,Ended,Bradford City,Doncaster Rovers,1-0,1.14,1.29,9,9,2,3
+14:00,League One,Ended,Northampton Town,Reading,0-2,1.63,1.14,14,10,3,2
+15:00,League One,Ended,Barnsley,Stevenage,3-1,1.58,1.01,12,11,3,1
+15:00,League One,Ended,Burton Albion,Cardiff City,2-2,2.10,0.50,10,7,2,1
+15:00,League One,Ended,Exeter City,Rotherham United,0-4,0.64,1.53,13,11,1,3
+15:00,League One,Ended,Leyton Orient,Port Vale,0-1,0.91,0.63,11,7,1,0
+15:00,League One,Ended,Luton Town,Blackpool,1-0,1.18,0.33,13,5,1,0
+15:00,League One,Ended,Mansfield Town,Wycombe Wanderers,0-0,0.51,1.79,8,18,0,2
+15:00,League One,Ended,Peterborough United,Huddersfield Town,2-3,2.38,1.12,9,16,3,1
+15:00,League One,Ended,Stockport County,Plymouth Argyle,2-1,0.63,1.76,6,13,2,1
+15:00,League One,Ended,Wigan Athletic,Lincoln City,0-1,0.67,1.29,10,8,1,2
+12:30,League Two,Ended,Bristol Rovers,Newport County,3-0,1.00,0.46,18,5,2,0
+12:30,League Two,Ended,Grimsby Town,Milton Keynes Dons,2-2,1.32,1.25,12,8,3,1
+15:00,League Two,Ended,Accrington Stanley,Cheltenham Town,3-1,0.67,1.20,16,13,0,2
+15:00,League Two,Ended,Chesterfield,Walsall,2-2,1.52,1.98,14,12,5,3
+15:00,League Two,Ended,Crawley Town,Harrogate Town,2-0,1.86,1.05,13,13,1,1
+15:00,League Two,Ended,Crewe Alexandra,Colchester United,1-0,0.36,1.11,3,18,0,0
+15:00,League Two,Ended,Fleetwood Town,Notts County,1-2,0.53,1.53,10,8,0,2
+15:00,League Two,Ended,Gillingham,Bromley,1-4,2.15,1.78,20,13,2,1
+15:00,League Two,Ended,Oldham Athletic,Cambridge United,0-3,0.33,2.19,5,8,0,3
+15:00,League Two,Ended,Shrewsbury Town,Barnet,0-0,0.65,1.60,9,18,1,1
+15:00,League Two,Ended,Swindon Town,Barrow AFC,3-1,2.38,1.80,14,15,4,3
+15:00,League Two,Ended,Tranmere Rovers,Salford City,0-2,1.42,1.36,17,12,3,1
+18:00,"Liga 1, Apertura",Ended,Sport Boys,Los Chankas CYC,1-1,0,0,16,9,2,1
+20:15,"Liga 1, Apertura",Ended,ADC Juan Pablo II,FC Cajamarca,3-3,0,0,10,12,3,1
+23:30,"Liga 1, Apertura",Ended,Melgar,Cienciano,2-0,0,0,12,13,3,0
+18:00,"Liga 1, Apertura",Not started,Deportivo Garcilaso,Club Sporting Cristal,0-0,0,0,0,0,0,0
+20:15,"Liga 1, Apertura",Not started,Alianza Atlético de Sullana,Cusco FC,0-0,0,0,0,0,0,0
+23:00,"Liga 1, Apertura",Not started,Universitario de Deportes,Asociación Deportiva Tarma,0-0,0,0,0,0,0,0
+15:00,Saudi Pro League,Postponed,Al-Ettifaq,Al-Taawoun,0-0,0,0,0,0,0,0
+15:15,Saudi Pro League,Not started,Al-Shabab,Al-Fayha,0-0,0,0,0,0,0,0
+17:30,Saudi Pro League,Not started,Al-Fateh,Al-Hazem,0-0,0,0,0,0,0,0
+17:30,Saudi Pro League,Not started,Al-Ittihad,Al-Najma SC,0-0,0,0,0,0,0,0
+12:30,Superliga,Ended,AFC Unirea 04 Slobozia,FC Hermannstadt,2-3,1.71,2.41,11,18,2,2
+15:00,Superliga,Ended,FC Argeș Pitești,UTA Arad,0-1,0.48,0.46,7,14,0,1
+18:00,Superliga,Ended,FC Rapid București,FC Universitatea Cluj,0-2,1.15,1.82,16,12,1,2
+15:15,Superliga,Not started,FC Farul Constanța,Universitatea Craiova,0-0,0,0,0,0,0,0
+18:00,Superliga,Not started,FCSB,FK Csíkszereda Miercurea Ciuc,0-0,0,0,0,0,0,0
+17:00,Swiss Super League,Ended,FC Winterthur,FC Lausanne-Sport,2-1,1.94,0.73,16,18,1,0
+17:00,Swiss Super League,Ended,Servette FC,FC Sion,3-3,1.41,1.44,10,9,3,3
+19:30,Swiss Super League,Ended,Grasshopper Club Zürich,FC Lugano,1-1,1.35,2.39,11,14,1,3
+13:00,Swiss Super League,Not started,FC Luzern,FC St. Gallen 1879,0-0,0,0,0,0,0,0
+15:30,Swiss Super League,Not started,Basel,FC Thun,0-0,0,0,0,0,0,0
+15:30,Swiss Super League,Not started,Young Boys,FC Zürich,0-0,0,0,0,0,0,0
+13:30,Premiership,Ended,Chippa United,Durban City FC,2-0,0,0,8,14,2,0
+13:30,Premiership,Ended,Marumo Gallants FC,AmaZulu FC,0-1,0,0,18,11,1,2
+16:00,Premiership,Ended,Orlando Pirates,Magesi FC,2-0,0,0,20,6,5,0
+16:00,Premiership,Ended,Polokwane City,ORBIT College FC,2-2,0,0,15,5,3,2
+13:30,Premiership,Not started,TS Galaxy,Sekhukhune United,0-0,0,0,0,0,0,0
+15:30,Premiership,Postponed,Siwelele FC,Kaizer Chiefs,0-0,0,0,0,0,0,0
+03:00,"A-League, Women",Ended,Canberra United,Melbourne Victory,3-1,0,0,31,8,3,0
+06:00,"A-League, Women",Ended,Newcastle Jets,Wellington Phoenix,1-5,0,0,15,19,1,0
+14:45,Stars League,Ended,Al-Ahli Doha,Qatar SC,1-3,0,0,17,10,1,3
+16:45,Stars League,Ended,Al-Gharafa,Al-Sadd,1-3,0,0,13,15,3,3
+11:00,Thai League 1,Ended,BG Pathum United,Chiangrai United,2-2,0,0,10,10,2,1
+11:30,Thai League 1,Ended,Kanchanaburi Power FC,PT Prachuap FC,0-0,0,0,18,17,4,0
+12:00,Thai League 1,Ended,Chonburi FC,Port FC,3-2,0,0,9,14,3,3
+12:30,Thai League 1,Ended,Ayutthaya United,Rayong FC,1-0,0,0,16,8,0,0
+11:00,Thai League 1,1st half,Nakhon Ratchasima Mazda FC,Lamphun Warrior,0-0,0,0,0,3,0,0
+11:30,Thai League 1,Not started,Ratchaburi,Muang Thong United,0-0,0,0,0,0,0,0
+11:30,Thai League 1,Not started,Sukhothai,Uthai Thani FC,0-0,0,0,0,0,0,0
+12:00,Thai League 1,Not started,Buriram United,True Bangkok United,0-0,0,0,0,0,0,0
+12:30,Women's Super League,Postponed,Arsenal,Leicester City,0-0,0,0,0,0,0,0
+11:55,Women's Super League,Not started,Brighton,London City Lionesses,0-0,0,0,0,0,0,0
+11:55,Women's Super League,Not started,Everton,Aston Villa,0-0,0,0,0,0,0,0
+11:55,Women's Super League,Not started,Manchester United,Liverpool FC,0-0,0,0,0,0,0,0
+11:55,Women's Super League,Not started,West Ham,Tottenham FC,0-0,0,0,0,0,0,0
+14:30,Women's Super League,Not started,Manchester City,Chelsea FC,0-0,0,0,0,0,0,0
+15:00,Challenger Pro League,Ended,OC Charleroi,Royal Francs Borains,0-3,1.58,1.00,18,12,1,2
+15:00,Challenger Pro League,Ended,RSCA Futures U23,RFC Liège,0-0,1.63,0.63,17,7,2,0
+19:00,Challenger Pro League,Ended,Lommel SK,Patro Eisden Maasmechelen,1-1,1.83,0.45,14,9,2,0
+19:00,Challenger Pro League,Ended,RWDM Brussels,KAA Gent Reserve U23,1-0,0.87,1.84,11,20,0,5
+12:30,Challenger Pro League,Not started,Koninklijke Lierse Sportkring,K. Beerschot V.A.,0-0,0,0,0,0,0,0
+12:30,Challenger Pro League,Not started,KV Kortrijk,KSC Lokeren,0-0,0,0,0,0,0,0
+14:00,"Première Ligue, Féminine",Ended,Saint-Étienne,Le Havre AC,1-1,0,0,9,4,2,0
+16:00,"Première Ligue, Féminine",Ended,FC Fleury 91,Montpellier HSC,1-0,0,0,6,8,1,0
+16:00,"Première Ligue, Féminine",Ended,Nantes,RC Lens,2-2,0,0,15,9,1,2
+16:00,"Première Ligue, Féminine",Ended,Strasbourg,Dijon FCO,0-3,0,0,13,9,0,1
+14:00,"Première Ligue, Féminine",Not started,Paris Saint-Germain,OL Lyonnes,0-0,0,0,0,0,0,0
+11:30,Serie A Femminile,Not started,Lazio,FC Como,0-0,0,0,0,0,0,0
+11:30,Serie A Femminile,Not started,Milan,Genoa,0-0,0,0,0,0,0,0
+14:00,Serie A Femminile,Not started,Parma,AS Roma,0-0,0,0,0,0,0,0
+14:00,Serie A Femminile,Not started,Ternana,Inter,0-0,0,0,0,0,0,0
+17:00,Serie A Femminile,Not started,Juventus,Sassuolo,0-0,0,0,0,0,0,0
+11:00,Frauen-Bundesliga,Ended,Bayer Leverkusen,1. FC Nürnberg,4-0,0,0,14,6,0,0
+13:00,Frauen-Bundesliga,Ended,SGS Essen,1. FC Union Berlin,2-4,0,0,12,11,2,5
+13:00,Frauen-Bundesliga,Not started,Hamburger SV,SC Freiburg,0-0,0,0,0,0,0,0
+15:00,Frauen-Bundesliga,Not started,TSG Hoffenheim,SV Werder Bremen,0-0,0,0,0,0,0,0
+17:30,Frauen-Bundesliga,Not started,RB Leipzig,Eintracht Frankfurt,0-0,0,0,0,0,0,0
+11:00,Liga F Moeve,Ended,Club Atlético de Madrid,Granada Club de Fútbol,1-1,0,0,22,7,1,1
+11:00,Liga F Moeve,Ended,Levante UD,Madrid CFF,2-1,0,0,12,7,0,0
+15:15,Liga F Moeve,Ended,Athletic Club,RCD Espanyol de Barcelona,2-1,0,0,16,4,3,1
+16:00,Liga F Moeve,Ended,Alhama Club de Fútbol,DUX Logroño,0-4,0,0,17,11,0,3
+11:00,Liga F Moeve,1st half,FC Badalona,SD Eibar,0-0,0,0,0,5,0,0
+11:00,Liga F Moeve,1st half,Real Club Deportivo de la Coruña,Real Madrid,0-0,0,0,2,4,0,1
+12:00,Liga F Moeve,Not started,Costa Adeje Tenerife,Real Sociedad,0-0,0,0,0,0,0,0
+15:30,Liga F Moeve,Not started,Fútbol Club Barcelona,Sevilla FC,0-0,0,0,0,0,0,0
+12:30,NB I,Ended,MTK Budapest,Kazincbarcikai SC,1-3,2.58,2.27,23,16,6,4
+15:00,NB I,Ended,ETO FC Győr,Debreceni VSC,2-2,3.77,0.79,15,9,5,1
+17:30,NB I,Ended,Újpest,Puskás Akadémia,0-1,0,0,12,11,0,1
+11:45,NB I,Not started,Diósgyőri VTK,Kisvárda FC,0-0,0,0,0,0,0,0
+14:15,NB I,Not started,Paksi FC,Ferencváros TC,0-0,0,0,0,0,0,0
+18:45,NB I,Not started,Zalaegerszegi TE,Nyiregyháza Spartacus,0-0,0,0,0,0,0,0
+16:00,"CAF Confederations Cup, Group A",Not started,Djoliba AC,USM Alger,0-0,0,0,0,0,0,0
+19:00,"CAF Confederations Cup, Group A",Not started,Olympic Safi,FC San Pedro,0-0,0,0,0,0,0,0
+12:00,"CAF Confederations Cup, Group B",Not started,Maniema Union,Wydad Casablanca,0-0,0,0,0,0,0,0
+16:00,"CAF Confederations Cup, Group B",Not started,Azam FC,Nairobi United,0-0,0,0,0,0,0,0
+13:00,"CAF Confederations Cup, Group C",Not started,AS Otohô,Singida Black Stars SC,0-0,0,0,0,0,0,0
+13:00,"CAF Confederations Cup, Group C",Not started,Stellenbosch,CR Belouizdad,0-0,0,0,0,0,0,0
+13:00,"CAF Confederations Cup, Group D",Not started,Kaizer Chiefs,ZESCO United,0-0,0,0,0,0,0,0
+19:00,"CAF Confederations Cup, Group D",Not started,Al-Masry,Zamalek SC,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Postponed,JS Saoura,ES Sétif,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Postponed,MC El Bayadh,MB Rouissat,0-0,0,0,0,0,0,0
+20:30,"Liga Profesional de Fútbol, Apertura",Ended,San Lorenzo,Central Córdoba,1-0,0,0,11,8,1,0
+22:45,"Liga Profesional de Fútbol, Apertura",Ended,CA Independiente,Vélez Sarsfield,1-1,0,0,13,12,1,2
+01:00,"Liga Profesional de Fútbol, Apertura",Ended,Atlético Tucumán,Huracán,1-1,0,0,12,9,3,1
+01:00,"Liga Profesional de Fútbol, Apertura",Ended,CA Talleres,Platense,1-2,0,0,12,5,0,1
+20:00,"Liga Profesional de Fútbol, Apertura",Not started,Barracas Central,Deportivo Riestra,0-0,0,0,0,0,0,0
+22:15,"Liga Profesional de Fútbol, Apertura",Not started,Boca Juniors,Newell's Old Boys,0-0,0,0,0,0,0,0
+00:30,"Liga Profesional de Fútbol, Apertura",Not started,Rosario Central,River Plate,0-0,0,0,0,0,0,0
+16:30,OFB Cup,Ended,SV Ried,SK Rapid Wien,3-0,1.38,0.38,10,3,0,0
+16:30,OFB Cup,Not started,SCR Altach,SK Sturm Graz,0-0,0,0,0,0,0,0
+16:30,OFB Cup,Not started,Wolfsberger AC,Red Bull Salzburg,0-0,0,0,0,0,0,0
+10:30,Premier League,Ended,Kəpəz PFK,Şamaxı FK,0-2,1.70,1.41,18,12,0,0
+13:00,Premier League,Ended,Zirə FK,Sabah FK,1-3,1.50,0.96,9,10,0,0
+12:00,Premier League,Not started,Araz Naxçıvan,Neftçi Baku PFK,0-0,0,0,0,0,0,0
+14:30,Premier League,Not started,Qarabağ FK,Turan Tovuz,0-0,0,0,0,0,0,0
+19:00,Supercopa do Brasil,Not started,Flamengo,Corinthians,0-0,0,0,0,0,0,0
+23:30,Carioca Série A – Taça Guanabara,Not started,Botafogo,Fluminense,0-0,0,0,0,0,0,0
+19:30,"Cearense, Serie A, Championship Round",Ended,Fortaleza,AD Iguatu,1-1,0,0,31,4,2,1
+21:00,"Cearense, Serie A, Championship Round",Not started,Ceará,Horizonte FC,0-0,0,0,0,0,0,0
+19:30,Gaúcho,Ended,Caxias,Internacional,0-1,0,0,16,13,2,1
+19:30,Gaúcho,Ended,Grêmio,Juventude,1-1,0.22,0.32,7,10,1,1
+19:30,Gaúcho,Ended,Inter de Santa Maria,EC Avenida,1-0,0,0,9,8,0,0
+19:30,Gaúcho,Ended,Monsoon,São Luiz,2-2,0,0,15,24,5,3
+19:30,Gaúcho,Ended,Novo Hamburgo,Guarany de Bagé,2-0,0,0,17,17,1,1
+19:30,Gaúcho,Ended,Ypiranga FC,EC São José,1-1,0,0,12,6,1,0
+19:30,Mineiro Módulo I ,Ended,Pouso Alegre FC,Atlético Mineiro,1-3,1.07,1.08,10,16,0,2
+21:00,Mineiro Módulo I ,Ended,EC Democrata,North Esporte Clube,1-3,0,0,11,13,1,2
+21:30,Mineiro Módulo I ,Ended,América Mineiro,União Recreativa dos Trabalhadores,1-0,1.80,0.37,12,7,1,1
+21:30,Mineiro Módulo I ,Ended,Athletic Club,Uberlândia EC,0-3,0.36,1.21,8,10,0,0
+14:00,Mineiro Módulo I ,Not started,Itabirito FC,Tombense,0-0,0,0,0,0,0,0
+23:00,Mineiro Módulo I ,Not started,Betim Futebol,Cruzeiro,0-0,0,0,0,0,0,0
+19:30,Paraibano,Ended,Campinense,Botafogo-PB,4-1,0,0,0,0,0,0
+20:00,Paraibano,Not started,Pombal EC,Serra Branca EC,0-0,0,0,0,0,0,0
+20:00,Paraibano,Not started,Treze,Confiança EC,0-0,0,0,0,0,0,0
+21:30,Paraibano,Not started,Atlético Cajazeirense,Nacional de Patos,0-0,0,0,0,0,0,0
+22:00,Paraibano,Not started,Sousa EC,Esporte Clube de Patos,0-0,0,0,0,0,0,0
+19:30,"Pernambucano, Serie A1",Ended,Acadêmica Vitória,Náutico,2-3,0,0,0,0,0,0
+19:30,"Pernambucano, Serie A1",Ended,AD Jaguar,Maguary,1-2,0,0,0,0,0,0
+19:30,"Pernambucano, Serie A1",Ended,Retrô,Decisão Goiana,0-1,0,0,0,0,0,0
+19:30,"Pernambucano, Serie A1",Ended,Sport Recife,Santa Cruz,2-1,0,0,0,0,0,0
+18:15,"Sergipano,  Série A1 – 1ª Fase",Ended,AA Guarany,Atlético Gloriense,3-2,0,0,0,0,0,0
+18:15,"Sergipano,  Série A1 – 1ª Fase",Ended,América-SE,Desportiva Aracaju,0-0,0,0,0,0,0,0
+18:15,"Sergipano,  Série A1 – 1ª Fase",Ended,Dorense FC,Falcon-SE FC,1-0,0,0,0,0,0,0
+19:00,"Sergipano,  Série A1 – 1ª Fase",Ended,Lagarto FC,AO Itabaiana,0-0,0,0,0,0,0,0
+21:00,"Sergipano,  Série A1 – 1ª Fase",Ended,Sergipe,Confiança,1-0,0,0,0,0,0,0
+23:30,"Copa Chile, Group A",Ended,Deportes Iquique,San Marcos de Arica,4-0,0,0,0,0,0,0
+21:00,"Copa Chile, Group D",Not started,Unión San Felipe,Santiago Wanderers,0-0,0,0,0,0,0,0
+21:00,"Copa Chile, Group E",Not started,Deportes Recoleta,Unión Española,0-0,0,0,0,0,0,0
+23:30,"Copa Chile, Group F",Not started,Curicó Unido,Rangers de Talca,0-0,0,0,0,0,0,0
+23:00,"Copa Chile, Group G",Ended,Deportes Santa Cruz,Deportes Magallanes,4-1,0,0,0,0,0,0
+19:00,"Primera B, Apertura",Ended,Envigado FC,Independiente Yumbo,2-0,0,0,0,0,0,0
+01:30,"Primera B, Apertura",Ended,Orsomarso SC,Unión Magdalena,0-1,0,0,0,0,0,0
+20:00,"Primera B, Apertura",Not started,Deportes Quindío,Leones FC,0-0,0,0,0,0,0,0
+20:00,"Primera B, Apertura",Not started,Tigres FC,Boca Juniors de Cali,0-0,0,0,0,0,0,0
+14:00,1st Division,Ended,Ethnikos Achnas,Pafos FC,2-1,0,0,0,0,0,0
+15:00,1st Division,Ended,AEK Larnaca,Enosis Neon Paralimniou,5-0,0,0,0,0,0,0
+17:00,1st Division,Ended,Olympiakos Nicosia,APOEL Nicosia,0-2,0,0,0,0,0,0
+14:00,1st Division,Not started,Omonia Nicosia,Enosis Neon Ypsona FC,0-0,0,0,0,0,0,0
+15:00,1st Division,Not started,Akritas Chlorakas,Anorthosis Famagusta,0-0,0,0,0,0,0,0
+17:00,1st Division,Not started,AEL Limassol,Aris Limassol,0-0,0,0,0,0,0,0
+15:00,National League,Ended,Boreham Wood,Boston United,1-2,0.31,2.09,8,19,0,0
+15:00,National League,Ended,Braintree Town,Eastleigh,2-1,0,0,0,0,0,0
+15:00,National League,Ended,Carlisle United,Altrincham FC,3-1,0,0,0,0,0,0
+15:00,National League,Postponed,FC Halifax Town,Gateshead,0-0,0,0,0,0,0,0
+15:00,National League,Postponed,Forest Green Rovers,Woking,0-0,0,0,0,0,0,0
+15:00,National League,Ended,Hartlepool United,Aldershot Town,0-3,0.62,3.61,9,15,0,0
+15:00,National League,Ended,Solihull Moors,York City,0-2,0.88,3.05,8,16,0,0
+15:00,National League,Ended,Sutton United,Brackley Town,1-1,0,0,0,0,0,0
+15:00,National League,Postponed,Truro City,Scunthorpe United,0-0,0,0,0,0,0,0
+15:00,National League,Postponed,Wealdstone,Morecambe,0-0,0,0,0,0,0,0
+15:00,National League,Postponed,Yeovil Town,Tamworth,0-0,0,0,0,0,0,0
+17:30,National League,Postponed,Southend United,Rochdale,0-0,0,0,0,0,0,0
+13:00,"Liigacup, Group A",Ended,FC Lahti,TPS,5-1,0,0,0,0,0,0
+12:45,"Liigacup, Group B",Ended,Ilves,FF Jaro,4-2,0,0,0,0,0,0
+13:00,"Liigacup, Group B",Ended,KuPS,VPS,3-1,0,0,0,0,0,0
+14:00,"Liigacup, Group B",Ended,AC Oulu,SJK,3-0,0,0,0,0,0,0
+16:30,National,Ended,Valenciennes,US Orléans,0-1,1.92,0.86,17,6,0,0
+13:00,3. Liga,Ended,Energie Cottbus,TSG Hoffenheim II U23,3-1,3.97,1.68,19,11,0,0
+13:00,3. Liga,Ended,F.C. Hansa Rostock,FC Ingolstadt 04,0-3,2.30,0.56,18,11,0,0
+13:00,3. Liga,Ended,FC Viktoria Köln,SV Waldhof Mannheim,1-3,0.20,1.33,4,11,0,0
+13:00,3. Liga,Ended,TSV 1860 München,Alemannia Aachen,2-2,1.41,2.04,6,10,0,0
+13:30,3. Liga,Ended,1. FC Saarbrücken,VfL Osnabrück,0-1,2.98,0.72,22,8,0,0
+15:30,3. Liga,Ended,1. FC Schweinfurt 05,SSV Jahn Regensburg,0-1,0.90,1.49,12,12,0,0
+12:30,3. Liga,Not started,SSV Ulm 1846,MSV Duisburg,0-0,0,0,0,0,0,0
+15:30,3. Liga,Not started,SC Verl,VfB Stuttgart II U21,0-0,0,0,0,0,0,0
+18:30,3. Liga,Not started,Rot-Weiss Essen,SV Wehen Wiesbaden,0-0,0,0,0,0,0,0
+13:00,Regionalliga Northeast,Postponed,Hertha Zehlendorf,Hallescher FC,0-0,0,0,0,0,0,0
+13:00,Regionalliga Northeast,Postponed,ZFC Meuselwitz,1. FC Lokomotive Leipzig,0-0,0,0,0,0,0,0
+13:00,Regionalliga Northeast,Postponed,FC Carl Zeiss Jena,VSG Altglienicke,0-0,0,0,0,0,0,0
+13:00,Regionalliga Northeast,Postponed,FSV Zwickau,SV Babelsberg 03,0-0,0,0,0,0,0,0
+13:00,Regionalliga Northeast,Postponed,Greifswalder FC,FC Rot-Weiß Erfurt,0-0,0,0,0,0,0,0
+13:00,Regionalliga West,Postponed,Bonner SC,SC Rot-Weiß Oberhausen,0-0,0,0,0,0,0,0
+13:00,Regionalliga West,Ended,FC Schalke 04 II U23,SF Siegen,0-2,0,0,0,0,0,0
+13:00,Regionalliga West,Ended,Fortuna Düsseldorf II U23,FC Gütersloh,0-2,0,0,0,0,0,0
+13:00,Regionalliga West,Ended,SC Fortuna Köln,Borussia Mönchengladbach II U23,2-1,0,0,0,0,0,0
+13:00,Regionalliga West,Postponed,SC Wiedenbrück,1. FC Bocholt,0-0,0,0,0,0,0,0
+13:00,Regionalliga West,Postponed,SSVg Velbert,VfL Bochum 1848 II,0-0,0,0,0,0,0,0
+13:00,Regionalliga West,Postponed,SV Rödinghausen,Wuppertaler SV,0-0,0,0,0,0,0,0
+13:00,Regionalliga West,Not started,1. FC Köln II U23,SC Paderborn 07 II U21,0-0,0,0,0,0,0,0
+15:00,Premier League,Ended,Vision FC,Dreams,2-2,0,0,0,0,0,0
+15:30,Premier League,Ended,Heart of Lions,Asante Kotoko SC,3-1,0,0,0,0,0,0
+15:00,Premier League,Not started,Accra Hearts of Oak,Bechem United,0-0,0,0,0,0,0,0
+15:00,Premier League,Not started,Aduana Stars FC,Samartex,0-0,0,0,0,0,0,0
+15:00,Premier League,Not started,Basake Holy Stars FC,Berekum Chelsea,0-0,0,0,0,0,0,0
+15:00,Premier League,Not started,Bibiani Gold Stars FC,Swedru All Blacks United FC,0-0,0,0,0,0,0,0
+15:00,Premier League,Not started,Karela United,Hohoe United FC,0-0,0,0,0,0,0,0
+15:00,Premier League,Not started,Young Apostles FC,Eleven Wonders,0-0,0,0,0,0,0,0
+21:00,"Liga Guate Banrural, Clausura",Ended,Deportivo Mixco,Cobán Imperial,1-1,0,0,0,0,0,0
+23:00,"Liga Guate Banrural, Clausura",Ended,CSD Municipal,Deportivo Guastatoya,2-1,0,0,0,0,0,0
+01:00,"Liga Guate Banrural, Clausura",Ended,CSD Xelajú MC,Comunicaciones FC,2-0,0,0,0,0,0,0
+03:00,"Liga Guate Banrural, Clausura",Ended,CD Marquense,Antigua GFC,1-1,0,0,0,0,0,0
+17:00,"Liga Guate Banrural, Clausura",Not started,Aurora FC,Deportivo Malacateco,0-0,0,0,0,0,0,0
+00:00,"Liga Guate Banrural, Clausura",Not started,CD Mictlán,Deportivo Achuapa,0-0,0,0,0,0,0,0
+12:00,Indonesia Super League,Ended,Madura United FC,PSBS Biak,0-0,0,0,0,0,0,0
+08:30,Indonesia Super League,Ended,Borneo FC Samarinda,PSIM Yogyakarta,2-1,0,0,0,0,0,0
+12:00,Indonesia Super League,Not started,Persebaya Surabaya,Dewa United FC,0-0,0,0,0,0,0,0
+08:30,Indonesia Super League,Not started,Arema FC,Persijap Jepara,0-0,0,0,0,0,0,0
+11:30,Pro League,Not started,Esteghlal Khuzestan,Aluminium Arak,0-0,0,0,0,0,0,0
+11:30,Pro League,Not started,Shams Azar Qazvin,Mes Rafsanjan FC,0-0,0,0,0,0,0,0
+11:30,Pro League,Not started,Tractor FC,Sepahan S.C.,0-0,0,0,0,0,0,0
+13:30,Pro League,Not started,Paykan,Esteghlal FC,0-0,0,0,0,0,0,0
+11:30,Pro League,Not started,Zob Ahan,Fajr Sepasi FC,0-0,0,0,0,0,0,0
+17:00,FAI Presidents Cup,Ended,Shamrock Rovers,Derry City,0-1,0,0,0,0,0,0
+13:30,"Serie C, Group A",Ended,Arzignano Valchiampo,Triestina,4-1,1.77,0.73,15,11,0,0
+13:30,"Serie C, Group A",Ended,Dolomiti Bellunesi,Virtus Verona,1-0,2.26,0.73,19,8,0,0
+13:30,"Serie C, Group A",Ended,Trento,Lecco,1-1,2.78,1.63,15,12,0,0
+16:30,"Serie C, Group A",Ended,Inter U23,Pergolettese,1-1,2.34,1.08,19,8,0,0
+16:30,"Serie C, Group A",Ended,Ospitaletto Franciacorta,Lumezzane,1-2,0,0,0,0,0,0
+11:30,"Serie C, Group A",Not started,Aurora Pro Patria,L.R. Vicenza,0-0,0,0,0,0,0,0
+11:30,"Serie C, Group A",Not started,Cittadella,AlbinoLeffe,0-0,0,0,0,0,0,0
+13:30,"Serie C, Group A",Not started,Pro Vercelli,Novara,0-0,0,0,0,0,0,0
+13:30,"Serie C, Group B",Ended,Pianese,Vis Pesaro,1-2,1.34,1.99,8,12,0,0
+16:30,"Serie C, Group B",Ended,Bra,Gubbio,1-0,1.88,0.31,12,5,0,0
+16:30,"Serie C, Group B",Ended,Campobasso FC,Pontedera,3-2,1.79,1.55,18,8,0,0
+16:30,"Serie C, Group B",Ended,Carpi,Sambenedettese,0-0,1.89,0.99,16,11,0,0
+13:30,"Serie C, Group B",Not started,Juventus Next Gen U23,Pineto,0-0,0,0,0,0,0,0
+13:30,"Serie C, Group B",Not started,Ternana,Torres,0-0,0,0,0,0,0,0
+13:30,"Serie C, Group C",Ended,Cavese,Casarano,1-1,1.55,0.96,16,3,0,0
+13:30,"Serie C, Group C",Ended,Sorrento,Catania,3-1,1.44,2.03,7,12,0,0
+13:30,"Serie C, Group C",Not started,Atalanta U23,Benevento,0-0,0,0,0,0,0,0
+13:30,"Serie C, Group C",Not started,Monopoli,Latina,0-0,0,0,0,0,0,0
+13:30,"Serie C, Group C",Not started,Trapani,Team Altamura,0-0,0,0,0,0,0,0
+16:30,"Serie C, Group C",Not started,AZ Picerno,Potenza Calcio,0-0,0,0,0,0,0,0
+16:30,"Serie C, Group C",Not started,Cosenza,Casertana,0-0,0,0,0,0,0,0
+16:30,"Serie C, Group C",Not started,Siracusa Calcio,Crotone,0-0,0,0,0,0,0,0
+19:30,"Serie C, Group C",Not started,Foggia,Audace Cerignola,0-0,0,0,0,0,0,0
+19:30,"Serie C, Group C",Not started,Salernitana,Giugliano,0-0,0,0,0,0,0,0
+10:00,Primavera 1,Ended,Frosinone U20,Parma U20,2-3,0,0,0,0,0,0
+10:00,Primavera 1,Ended,Napoli U20,Cesena U20,2-1,3.42,1.78,25,9,0,0
+12:00,Primavera 1,Ended,Bologna U20,Juventus U20,3-3,1.63,2.41,11,13,0,0
+14:00,Primavera 1,Ended,Sassuolo U20,Monza U20,0-1,1.18,0.45,16,5,0,0
+14:00,Primavera 1,Ended,Torino U20,Fiorentina U20,1-1,1.00,1.77,11,16,0,0
+10:00,Primavera 1,2nd half,Hellas Verona U20,Milan U20,1-0,0,0,0,0,0,0
+12:00,Primavera 1,Not started,Lecce U20,Roma U20,0-0,0,0,0,0,0,0
+14:00,Primavera 1,Not started,Genoa U20,Cagliari U20,0-0,0,0,0,0,0,0
+11:00,Primavera 1,Not started,Lazio U20,Atalanta U20,0-0,0,0,0,0,0,0
+12:15,Super League,Ended,Brunei DPMM FC,Melaka FC,1-1,1.42,0.69,11,15,0,0
+12:15,Super League,Ended,Kuching City,Negeri Sembilan,2-0,2.05,0.41,13,7,0,0
+13:00,Super League,Ended,Kelantan The Real Warriors FC,Penang,1-1,0,0,0,0,0,0
+12:15,Super League,Not started,Johor Darul Ta'zim,Immigration FC,0-0,0,0,0,0,0,0
+13:00,Super League,Not started,Terengganu,Selangor Football Club,0-0,0,0,0,0,0,0
+13:00,"Premier League, Closing Round",Ended,Tarxien Rainbows FC,Gżira United FC,1-2,0,0,0,0,0,0
+15:30,"Premier League, Closing Round",Ended,Birkirkara FC,Marsaxlokk FC,0-1,0,0,0,0,0,0
+15:30,"Premier League, Closing Round",Ended,Ħamrun Spartans FC,Sliema Wanderers,2-0,0,0,0,0,0,0
+18:00,"Premier League, Closing Round",Ended,Hibernians,Mosta FC,1-0,0,0,0,0,0,0
+13:00,"Premier League, Closing Round",Not started,Valletta FC,Naxxar Lions FC,0-0,0,0,0,0,0,0
+18:00,"Premier League, Closing Round",Not started,Floriana FC,Zabbar Saint Patrick FC,0-0,0,0,0,0,0,0
+18:00,"Premier League, Closing Round",Not started,Zabbar Saint Patrick FC,Floriana FC,0-0,0,0,0,0,0,0
+01:00,"Liga de Expansion MX, Clausura",Postponed,C.D. Irapuato,Atlante FC,0-0,0,0,0,0,0,0
+01:00,"Liga de Expansion MX, Clausura",Ended,Club Atlético Morelia,Cancún FC,0-1,0,0,0,0,0,0
+15:00,Botola Pro,Ended,Hassania d'Agadir,Union Sportive Yacoub El Mansour,2-0,0.59,0.31,6,8,0,0
+17:00,Botola Pro,Ended,CODM Meknès,Union Touarga Sport,1-1,1.20,0.91,13,7,0,0
+19:00,Botola Pro,Ended,Difaâ Hassani El-Jadidi,MAS de Fès,0-0,0.00,0.82,0,10,0,0
+15:00,Botola Pro,Not started,Ittihad Tanger,Kawkab Athletic Club Marrakech,0-0,0,0,0,0,0,0
+17:00,Botola Pro,Not started,Raja Club Athletic,Renaissance Zemamra,0-0,0,0,0,0,0,0
+15:00,Premiership,Ended,Bangor FC,Coleraine FC,0-2,0,0,0,0,0,0
+15:00,Premiership,Ended,Crusaders FC,Larne FC,2-4,0,0,0,0,0,0
+15:00,Premiership,Ended,Dungannon Swifts,Glentoran FC,0-2,0,0,0,0,0,0
+15:00,Premiership,Ended,Glenavon,Cliftonville FC,2-1,0,0,0,0,0,0
+15:00,Premiership,Ended,Linfield FC,Ballymena United,2-1,0,0,0,0,0,0
+17:30,Premiership,Ended,Portadown FC,Carrick Rangers,0-3,0,0,0,0,0,0
+21:00,"División de Honor, Apertura",Ended,Nacional Asunción,CS 2 de Mayo,5-1,0,0,14,5,6,0
+23:15,"División de Honor, Apertura",Ended,Sportivo Ameliano,Sportivo San Lorenzo,1-0,0,0,13,9,1,1
+21:00,"División de Honor, Apertura",Not started,Olimpia,Sportivo Trinidense,0-0,0,0,0,0,0,0
+23:15,"División de Honor, Apertura",Not started,Guaraní,Rubio Ñu,0-0,0,0,0,0,0,0
+11:00,Liga Portugal 2,Ended,Felgueiras,Chaves,1-0,0,0,0,0,0,0
+14:00,Liga Portugal 2,Ended,Académico Viseu FC,Torreense,1-0,0,0,0,0,0,0
+18:00,Liga Portugal 2,Ended,SC Farense,FC Porto B,2-3,0,0,0,0,0,0
+20:30,Liga Portugal 2,Ended,Vizela,Portimonense SAD,1-1,0,0,0,0,0,0
+11:00,Liga Portugal 2,1st half,Sporting CP B U21,UD Oliveirense,0-0,0,0,0,0,0,0
+11:00,Liga Portugal 2,Postponed,União de Leiria,Paços de Ferreira,0-0,0,0,0,0,0,0
+14:00,Liga Portugal 2,Not started,Feirense,Marítimo,0-0,0,0,0,0,0,0
+15:00,"Campeonato de Portugal, Group A",Ended,AD Camacha,Vilaverdense FC,1-0,0,0,0,0,0,0
+15:00,"Campeonato de Portugal, Group A",Ended,AD Machico,CD Celoricense,1-0,0,0,0,0,0,0
+15:00,"Campeonato de Portugal, Group A",Ended,CD Ribeira Brava,AR São Martinho,0-1,0,0,0,0,0,0
+15:00,"Campeonato de Portugal, Group B",Not started,AC Vila Meã,SC Vila Real,0-0,0,0,0,0,0,0
+15:00,"Campeonato de Portugal, Group D",Ended,LGC Moncarapachense,GD Alcochetense,1-3,0,0,0,0,0,0
+10:30,"U23 Championship, Championship Round",Ended,Sporting U23,Torreense U23,1-2,0,0,0,0,0,0
+11:00,"U23 Championship, Championship Round",Ended,Leixões SC U23,Benfica U23,2-5,0,0,0,0,0,0
+15:00,Championship,Ended,Ayr United,Raith Rovers,2-1,0,0,0,0,0,0
+15:00,Championship,Ended,Dunfermline Athletic,Airdrieonians,0-2,0,0,0,0,0,0
+15:00,Championship,Ended,Greenock Morton,Ross County,2-1,0,0,0,0,0,0
+15:00,Championship,Ended,Queen's Park FC,Arbroath,2-1,0,0,0,0,0,0
+15:00,League One,Ended,Alloa Athletic,Cove Rangers,2-2,0,0,0,0,0,0
+15:00,League One,Ended,East Fife,Montrose,2-3,0,0,0,0,0,0
+15:00,League One,Ended,Kelty Hearts F.C.,Hamilton Academical,0-0,0,0,0,0,0,0
+15:00,League One,Ended,Queen of The South,Inverness Caledonian Thistle,2-2,0,0,0,0,0,0
+15:00,League One,Ended,Stenhousemuir,Peterhead,2-2,0,0,0,0,0,0
+15:00,League Two,Ended,Annan Athletic,Clyde FC,1-1,0,0,0,0,0,0
+15:00,League Two,Ended,Dumbarton,Edinburgh City F.C.,1-2,0,0,0,0,0,0
+15:00,League Two,Ended,East Kilbride,Forfar Athletic,3-1,0,0,0,0,0,0
+15:00,League Two,Ended,Elgin City,The Spartans FC,3-3,0,0,0,0,0,0
+15:00,League Two,Ended,Stirling Albion,Stranraer,1-1,0,0,0,0,0,0
+11:30,Premier League,Postponed,Balestier Khalsa,Tampines Rovers,0-0,0,0,0,0,0,0
+11:30,Premier League,Ended,Tampines Rovers,Tanjong Pagar United,2-1,3.64,1.02,24,9,0,0
+11:30,Premier League,Not started,Lion City Sailors,Balestier Khalsa,0-0,0,0,0,0,0,0
+11:30,Premier League,Not started,Albirex Niigata Singapore,Geylang International,0-0,0,0,0,0,0,0
+14:00,PrvaLiga,Ended,NK Olimpija Ljubljana,NŠ Mura,1-0,0,0,0,0,0,0
+16:30,PrvaLiga,Ended,FC Koper,NK Bravo,6-2,0,0,0,0,0,0
+14:00,PrvaLiga,Not started,NK Maribor,NK Celje,0-0,0,0,0,0,0,0
+13:00,Challenge League,Not started,FC Wil 1900,Stade Nyonnais,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Ended,Club Africain,CA Bizertin,1-0,0,0,0,0,0,0
+13:00,Ligue 1,Ended,JS Kairouanaise,Olympique Béja,1-0,0,0,0,0,0,0
+13:00,Ligue 1,Ended,US Ben Guerdane,ES Zarzis,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Not started,Avenir Sportif De Gabes,Etoile Sportive Du Sahel,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Not started,ES Métlaoui,Stade Tunisien,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Not started,JS Omrane,CS Sfaxien,0-0,0,0,0,0,0,0
+13:00,Ligue 1,Not started,US Monastir,Avenir Sportif De La Marsa,0-0,0,0,0,0,0,0
+23:00,Supercopa Uruguaya,Not started,Peñarol,Nacional,0-0,0,0,0,0,0,0
+22:00,MLS Pre Season,Ended,Inter Miami CF,Atlético Nacional,2-1,0,0,13,15,2,0
+22:00,USL Super League,Ended,Dallas Trinity,Brooklyn FC,1-1,0,0,5,14,0,2
+22:00,USL Super League,Ended,Sporting Jacksonville,Carolina Ascent,1-0,0,0,12,13,2,3
+00:30,USL Super League,Ended,Fort Lauderdale United,Lexington SC,1-3,0,0,10,15,0,2
+00:30,USL Super League,Ended,Tampa Bay Sun FC,Spokane Zephyr FC,2-2,0,0,13,12,1,2
+19:30,"Primera Division, Apertura",Ended,Rayo Zuliano,Zamora,0-1,0,0,5,13,0,2
+21:00,"Primera Division, Apertura",Ended,Carabobo,Portuguesa FC,0-0,0,0,11,13,0,0
+23:00,"Primera Division, Apertura",Ended,Deportivo La Guaira,Monagas,2-0,0,0,13,9,0,0
+21:00,"Primera Division, Apertura",Not started,Estudiantes de Mérida,Caracas F.C.,0-0,0,0,0,0,0,0
+23:00,"Primera Division, Apertura",Not started,Universidad Central,Trujillanos FC,0-0,0,0,0,0,0,0
+11:00,V-League 1,Ended,Hải Phòng,Thể Công - Viettel,1-2,0,0,0,0,0,0
+11:00,V-League 1,Ended,Sông Lam Nghệ An,Hà Nội,1-3,1.42,0.95,14,9,0,0
+10:00,V-League 1,2nd half,Hoàng Anh Gia Lai,SHB Đà Nẵng,0-0,0,0,0,0,0,0
+11:00,V-League 1,1st half,Đông Á Thanh Hóa,Nam Định,0-1,0,0,0,0,0,0
+11:00,V-League 1,1st half,PVF-Công An Nhân Dân,Công An Hồ Chí Minh City,0-0,0,0,0,0,0,0
+12:15,V-League 1,Not started,Công An Hà Nội,Ninh Bình FC,0-0,0,0,0,0,0,0
+10:00,Club Friendly Games,Ended,Artis Brno B,SK Sulko Zabreh,4-1,0,0,0,0,0,0
+10:00,Club Friendly Games,Ended,Concordia Chiajna,FC Voluntari,2-0,0,0,0,0,0,0
+10:00,Club Friendly Games,Ended,CSM Unirea Alba Iulia,FC Corvinul Hunedoara,1-1,0,0,0,0,0,0
+10:00,Club Friendly Games,Ended,FC Petržalka 1898,Vysočina Jihlava,2-2,0,0,0,0,0,0
+10:00,Club Friendly Games,Ended,FK Frydek Mistek,FC Vsetín,4-1,0,0,0,0,0,0
+10:00,Club Friendly Games,Ended,NK Jarun,NK Radnik Križevci,3-1,0,0,0,0,0,0
+10:15,Club Friendly Games,Ended,Ilves/2,Inter Turku/2,3-2,0,0,0,0,0,0
+10:20,Club Friendly Games,Ended,Start Brno,FC Kurim,3-2,0,0,0,0,0,0
+11:00,Club Friendly Games,Ended,Vidar,Egersund,1-4,0,0,0,0,0,0
+12:00,Club Friendly Games,Ended,MŠK Žilina,Slezský FC Opava,1-0,0,0,0,0,0,0
+12:30,Club Friendly Games,Ended,SAK Klagenfurt,Annabichler SV,4-0,0,0,0,0,0,0
+13:00,Club Friendly Games,Ended,Räppe GoIF,FK Karlskrona,1-0,0,0,0,0,0,0
+13:00,Club Friendly Games,Ended,SK Slovan HAC,Favoritner AC,3-6,0,0,0,0,0,0
+13:15,Club Friendly Games,Ended,NK Dubrava Tim Kabel,NK Opatija,1-2,0,0,0,0,0,0
+13:30,Club Friendly Games,Ended,Austria Klagenfurt,Triglav Kranj,0-4,0,0,0,0,0,0
+13:30,Club Friendly Games,Ended,IK Oddevold,FBK Karlstad,1-0,0,0,0,0,0,0
+14:00,Club Friendly Games,Ended,DAC 1904,AS Trenčín,0-0,0,0,0,0,0,0
+03:00,Club Friendly Games,Ended,Barcelona SC Guayaquil,Guayaquil City,0-1,0,0,0,0,0,0
+11:00,Club Friendly Games,1st half,Daejeon Hana Citizen,Västerås SK,0-0,0,0,0,0,0,0
+13:00,Club Friendly Games,Not started,Sarpsborg 08,Östers IF,0-0,0,0,0,0,0,0
